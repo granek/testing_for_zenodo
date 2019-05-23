@@ -65,7 +65,7 @@ library(tibble)
     - Set *READ-ONLY* permissions on data files and data directory
     - Archive ASAP
 
-## Switch to RStudio
+## Switch to Jupyter
 
 ```{r include=FALSE}
 rawdata_dir = file.path(tempdir(), "rr_raw_data")

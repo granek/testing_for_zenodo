@@ -14,19 +14,19 @@ library(tibble)
 library(tidyr)
 library(readr)
 library(stringr)
-
+library(openxlsx)
 ```
 
 
-# Get Barcodes from Plate Layout
+## Set paths
 ```{r}
-getwd()
 list.files("../../../2019_HTS_course/wetlab/protocols/")
 
 sample_layout.file = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
 excel_sheets(sample_layout.file)
 ```
 
+## Get Wells from Plate Layout
 ```{r}
 read_excel(sample_layout.file, sheet="2019_lab_plate", skip=5) %>%
   select(-X__2) %>%
@@ -42,19 +42,9 @@ well_layout.df %>%
   mutate(Well=paste0(row,col)) %>%
   select(Label, Well) ->
   samples_with_wells.df
-  
-
-
-# %>%
-#   select(-X__1) %>%
-#   rename(I5_Index_ID = X__2) ->
-#   plate_layout.df
-# 
-# plate_layout.df
 ```
 
-
-
+## Get Barcodes from Plate Layout
 ```{r}
 read_excel(sample_layout.file, sheet="2019_lab_plate", skip=6) %>%
   select(-X__1) %>%
@@ -71,7 +61,7 @@ gather(plate_layout.df, key="I7_Index_ID", "Label", -I5_Index_ID) %>%
 sample_indices.df
 ```
 
-# Get Barcode sequences
+## Get Barcode sequences
 ```{r}
 nextseq_barcode_url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
 read_csv(nextseq_barcode_url, skip=18) %>%
@@ -93,7 +83,7 @@ index_seqs.df %>%
   i5_sequences
 ```
 
-# Merge Sequences with Samples
+## Merge Sequences with Samples
 ```{r}
 sample_indices.df %>%
   left_join(i7_sequences) %>%
@@ -123,21 +113,11 @@ samples_with_index_seqs %>%
     Size=200,
     "i7 index"=I7_Index_Seq,
     "i5 index"=I5_Index_Seq,
-    Pool="A")
-  
-  
-  # 
-  # 
-  # 
-  # select(everything(), 
-  #        "i7 index"=I7_Index_Seq)
-  # select(Version,
-  #   Type,
-  #   ,
-  #   Plate,
-  #   Organism,
-  #   Conc)
+    Pool="A") ->
+  sample_submission.df
 ```
-
+```{r}
+write.xlsx(sample_submission.df, "order_5728_corrected.xlsx")
+```
 
 

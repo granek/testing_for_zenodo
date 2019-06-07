@@ -20,22 +20,38 @@ library(openxlsx)
 
 ## Set paths
 ```{r}
-list.files("../../../2019_HTS_course/wetlab/protocols/")
+sample_layout.xlsx = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
+spreadsheet_label = "2019_lab_plate"
+sample_layout.csv = "sample_layout.csv"
 
-sample_layout.file = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
-excel_sheets(sample_layout.file)
+neb_nextseq_barcode.url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
+neb_nextseq_barcode.csv="neb_nextseq_barcode.csv"
+```
+
+## Save local copy of data
+### Save Excel layout spreadsheet as CSV
+```{r}
+excel_sheets(sample_layout.xlsx)
+read_excel(sample_layout.xlsx, sheet=spreadsheet_label, skip=5) %>%
+  select(1:8) %>%
+  write_csv(sample_layout.csv)
+```
+
+### Save local copy of NEB barcode map
+```{r}
+download.file(neb_nextseq_barcode.url, neb_nextseq_barcode.csv)
 ```
 
 ## Get Wells from Plate Layout
 ```{r}
-read_excel(sample_layout.file, sheet="2019_lab_plate", skip=5) %>%
+read_csv(sample_layout.csv) %>%
   select(-X__2) %>%
   rename(row = X__1) %>%
-  filter(!is.na(row)) %>%
-  select(1:7)  ->
+  filter(!is.na(row)) -> 
   well_layout.df
 well_layout.df
 ```
+
 ```{r}
 well_layout.df %>%
   gather(key="col", "Label", -row) %>%
@@ -46,12 +62,10 @@ well_layout.df %>%
 
 ## Get Barcodes from Plate Layout
 ```{r}
-read_excel(sample_layout.file, sheet="2019_lab_plate", skip=6) %>%
-  select(-X__1) %>%
-  rename(I5_Index_ID = X__2) ->
+read_csv(sample_layout.csv, skip=1) %>%
+  select(-X1) %>%
+  rename(I5_Index_ID = X2) ->
   plate_layout.df
-
-plate_layout.df
 ```
 
 ```{r}
@@ -62,8 +76,7 @@ sample_indices.df
 
 ## Get Barcode sequences
 ```{r}
-nextseq_barcode_url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
-read_csv(nextseq_barcode_url, skip=18) %>%
+read_csv(neb_nextseq_barcode.csv, skip=18) %>%
   select(I7_Index_ID, 
          I7_Index_Seq=index,
          I5_Index_ID, 
@@ -92,10 +105,6 @@ sample_indices.df %>%
   samples_with_index_seqs
 samples_with_index_seqs
 ```
-
-Code	Version	Type	Label	Plate	Well	Organism	Conc.	Volume	Size	i7 index	i5 index	Pool
-L-1	1	RNA-Seq	1_A	1	A1	Cryptococcus neoformans		20	200	ATTACTCG	AGGCTATA	A
-
 
 
 ```{r}

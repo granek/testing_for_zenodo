@@ -1,0 +1,81 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+library(dplyr)
+library(tibble)
+library(tidyr)
+
+```
+
+```{r}
+getwd()
+list.files("../../../2019_HTS_course/wetlab/protocols/")
+
+sample_layout.file = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
+excel_sheets(sample_layout.file)
+```
+
+```{r}
+read_excel(sample_layout.file, sheet="2019_lab_plate", skip=6) %>%
+  select(-X__1) %>%
+  rename(i5index = X__2) ->
+  plate_layout.df
+  # as.matrix
+#   column_to_rownames("X__2")
+plate_layout.df
+```
+
+```{r}
+gather(plate_layout.df, key="i7index", "sample", -i5index)
+```
+
+
+```{r}
+colnames(plate_layout.df)
+rownames(plate_layout.df)
+```
+
+```{r}
+library(dplyr)
+# From http://stackoverflow.com/questions/1181060
+stocks <- tibble(
+  time = as.Date('2009-01-01') + 0:9,
+  X = rnorm(10, 0, 1),
+  Y = rnorm(10, 0, 2),
+  Z = rnorm(10, 0, 4)
+)
+stocks
+```
+
+```{r}
+
+gather(stocks, "stock", "price", -time)
+```
+
+
+
+```{r}
+plate_layout.df %>%
+  as.matrix ->
+  mymatrix
+
+for(row in 1:nrow(mymatrix)) {
+    for(col in 1:ncol(mymatrix)) {
+      i7_index = colnames(mymatrix)[col]
+      i5_index = rownames(mymatrix)[row]
+      print(paste("i5", i5_index))
+      print(paste("i7", i7_index))
+      print(mymatrix[row, col])
+    }
+}
+```
+
+

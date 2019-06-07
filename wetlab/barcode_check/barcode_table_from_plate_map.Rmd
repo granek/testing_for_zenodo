@@ -12,8 +12,13 @@ library(readxl)
 library(dplyr)
 library(tibble)
 library(tidyr)
+library(readr)
+library(stringr)
+
 ```
 
+
+# Get Barcodes from Plate Layout
 ```{r}
 getwd()
 list.files("../../../2019_HTS_course/wetlab/protocols/")
@@ -23,19 +28,115 @@ excel_sheets(sample_layout.file)
 ```
 
 ```{r}
+read_excel(sample_layout.file, sheet="2019_lab_plate", skip=5) %>%
+  select(-X__2) %>%
+  rename(row = X__1) %>%
+  filter(!is.na(row)) %>%
+  select(1:7)  ->
+  well_layout.df
+well_layout.df
+```
+```{r}
+well_layout.df %>%
+  gather(key="col", "Label", -row) %>%
+  mutate(Well=paste0(row,col)) %>%
+  select(Label, Well) ->
+  samples_with_wells.df
+  
+
+
+# %>%
+#   select(-X__1) %>%
+#   rename(I5_Index_ID = X__2) ->
+#   plate_layout.df
+# 
+# plate_layout.df
+```
+
+
+
+```{r}
 read_excel(sample_layout.file, sheet="2019_lab_plate", skip=6) %>%
   select(-X__1) %>%
-  rename(i5index = X__2) ->
+  rename(I5_Index_ID = X__2) ->
   plate_layout.df
 
 plate_layout.df
 ```
 
 ```{r}
-gather(plate_layout.df, key="i7index", "sample", -i5index) %>%
-  arrange(i5index, i7index) ->
+gather(plate_layout.df, key="I7_Index_ID", "Label", -I5_Index_ID) %>%
+  arrange(I5_Index_ID, I7_Index_ID) ->
   sample_indices.df
 sample_indices.df
+```
+
+# Get Barcode sequences
+```{r}
+nextseq_barcode_url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
+read_csv(nextseq_barcode_url, skip=18) %>%
+  select(I7_Index_ID, 
+         I7_Index_Seq=index,
+         I5_Index_ID, 
+         I5_Index_Seq=index2) %>%
+  mutate(I7_Index_ID=str_replace(I7_Index_ID, "D", "i"),
+         I5_Index_ID=str_replace(I5_Index_ID, "D", "i")) ->
+  index_seqs.df
+
+index_seqs.df %>%
+  select(starts_with("I7")) ->
+  i7_sequences
+
+index_seqs.df %>%
+  select(starts_with("I5")) %>%
+  distinct ->
+  i5_sequences
+```
+
+# Merge Sequences with Samples
+```{r}
+sample_indices.df %>%
+  left_join(i7_sequences) %>%
+  left_join(i5_sequences) %>%
+  left_join(samples_with_wells.df) ->
+  samples_with_index_seqs
+samples_with_index_seqs
+```
+
+Code	Version	Type	Label	Plate	Well	Organism	Conc.	Volume	Size	i7 index	i5 index	Pool
+L-1	1	RNA-Seq	1_A	1	A1	Cryptococcus neoformans		20	200	ATTACTCG	AGGCTATA	A
+
+
+
+```{r}
+samples_with_index_seqs %>%
+  transmute(
+    Code=paste("L", 1:n(),sep="-"),
+    Version=1, 
+    Type="RNA-Seq",
+    Label,
+    Plate=1,
+    Well,
+    Organism="Cryptococcus neoformans",
+    Conc="",
+    Volume=20,
+    Size=200,
+    "i7 index"=I7_Index_Seq,
+    "i5 index"=I5_Index_Seq,
+    Pool="A")
+  
+  
+  # 
+  # 
+  # 
+  # select(everything(), 
+  #        "i7 index"=I7_Index_Seq)
+  # select(Version,
+  #   Type,
+  #   ,
+  #   Plate,
+  #   Organism,
+  #   Conc)
 ```
 
 

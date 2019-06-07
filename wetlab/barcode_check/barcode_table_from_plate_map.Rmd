@@ -55,8 +55,7 @@ plate_layout.df
 ```
 
 ```{r}
-gather(plate_layout.df, key="I7_Index_ID", "Label", -I5_Index_ID) %>%
-  arrange(I5_Index_ID, I7_Index_ID) ->
+gather(plate_layout.df, key="I7_Index_ID", "Label", -I5_Index_ID) ->
   sample_indices.df
 sample_indices.df
 ```
@@ -88,7 +87,8 @@ index_seqs.df %>%
 sample_indices.df %>%
   left_join(i7_sequences) %>%
   left_join(i5_sequences) %>%
-  left_join(samples_with_wells.df) ->
+  left_join(samples_with_wells.df) %>%
+  arrange(I7_Index_ID, I5_Index_ID) ->
   samples_with_index_seqs
 samples_with_index_seqs
 ```
@@ -115,6 +115,7 @@ samples_with_index_seqs %>%
     "i5 index"=I5_Index_Seq,
     Pool="A") ->
   sample_submission.df
+sample_submission.df
 ```
 ```{r}
 write.xlsx(sample_submission.df, "order_5728_corrected.xlsx")

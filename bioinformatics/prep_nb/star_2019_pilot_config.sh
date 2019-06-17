@@ -19,7 +19,7 @@ export ADAPTERS="$MYINFO/neb_e7600_adapters.fasta"
 export CUROUT=$HOME/work/scratch/bioinf_intro
 
 # Output
-export CUROUT=$HOME/work/scratch/hts2018_course
+export CUROUT=$HOME/work/scratch/hts2019_course
 export TRIMMED=$CUROUT/trimmed_fastqs
 export GENOME_DIR=$CUROUT/genome
 export STAR_OUT=$CUROUT/star_out

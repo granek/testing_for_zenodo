@@ -20,25 +20,40 @@ library(openxlsx)
 
 ## Set paths
 ```{r}
+# original data paths
 sample_layout.xlsx = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
 spreadsheet_label = "2019_lab_plate"
-sample_layout.csv = "sample_layout.csv"
+
+sample_metadata.xlsx = "../../../2019_HTS_course/wetlab/protocols/HTS_RNA_2019.xlsx"
 
 neb_nextseq_barcode.url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
+
+# local copy filenames
+sample_layout.csv = "sample_layout.csv"
+sample_metadata.csv = "sample_metadata.csv"
 neb_nextseq_barcode.csv="neb_nextseq_barcode.csv"
 ```
 
 ## Save local copy of data
 ### Save Excel layout spreadsheet as CSV
-```{r}
+```{r eval=FALSE, include=FALSE}
 excel_sheets(sample_layout.xlsx)
 read_excel(sample_layout.xlsx, sheet=spreadsheet_label, skip=5) %>%
   select(1:8) %>%
   write_csv(sample_layout.csv)
 ```
 
+### Save Excel metadata spreadsheet as CSV
+```{r eval=FALSE, include=FALSE}
+excel_sheets(sample_metadata.xlsx)
+read_excel(sample_metadata.xlsx, sheet="Sheet1", skip=2, n_max=24) %>%
+  select(1:9) %>%
+  mutate(Genotype=str_replace(Genotype, "sre1∆", "sre1d")) %>%
+  write_csv(sample_metadata.csv)
+```
+
 ### Save local copy of NEB barcode map
-```{r}
+```{r eval=FALSE, include=FALSE}
 download.file(neb_nextseq_barcode.url, neb_nextseq_barcode.csv)
 ```
 
@@ -130,4 +145,50 @@ sample_submission.df
 write.xlsx(sample_submission.df, "order_5728_corrected.xlsx")
 ```
 
+## Make Sample Metadata Table
+```{r}
+# read_csv(sample_metadata.csv) ->
+#   sample_metadata.df
+# 
+# class(sample_metadata.df)
+# 
+
+read_csv(sample_metadata.csv,
+         col_types=cols(Sample = col_character())) ->
+  sample_metadata.df
+
+# , 
+#          col_types=cols(Sample = "i", b = "d", c = "_")
+# 
+           
+           
+           
+#           "cccddiidd")
+```
+
+
+```{r}
+sample_submission.df %>%
+  separate(Label, into=c("Sample", "Group"), sep="_", remove=FALSE) %>%
+  left_join(sample_metadata.df, by="Sample") ->
+  joined_metadata.df
+joined_metadata.df
+```
+
+```{r}
+colnames(joined_metadata.df) %>%
+  paste0(collapse=",")
+```
+
+```{r}
+joined_metadata.df %>%
+  select(Label,Sample,Group,Genotype,Condition,i7_index_seq="i7 index",i5_index_seq="i5 index") ->
+  final_metadata.df
+  
+final_metadata.df
+```
+
+```{r}
+write_csv(final_metadata.df, "lab_library_metadata.csv")
+```
 

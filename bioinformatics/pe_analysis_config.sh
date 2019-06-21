@@ -1,11 +1,13 @@
 set -u
 
+THREADS=2
+
 # Input
 export DATA_BASE="/data/hts_2019_data"
 export RAW_FASTQS="$DATA_BASE/hts2019_lab_rawdata"
 
 # Output
-export CUROUT=$HOME/work/scratch/lab_data
+export CUROUT=$HOME/work/scratch/pe_analysis
 export TRIMMED=$CUROUT/trimmed_fastqs
 export MYINFO=$CUROUT/myinfo
 export GENOME_DIR=$CUROUT/genome

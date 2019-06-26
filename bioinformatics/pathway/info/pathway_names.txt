@@ -1,0 +1,1859 @@
+Glycolysis / Gluconeogenesis
+Citrate cycle (TCA cycle)
+Pentose phosphate pathway
+Pentose and glucuronate interconversions
+Fructose and mannose metabolism
+Galactose metabolism
+Ascorbate and aldarate metabolism
+Fatty acid biosynthesis
+Fatty acid elongation
+Fatty acid degradation
+Synthesis and degradation of ketone bodies
+Steroid biosynthesis
+Primary bile acid biosynthesis
+Ubiquinone and other terpenoid-quinone biosynthesis
+Steroid hormone biosynthesis
+Oxidative phosphorylation
+Photosynthesis
+Purine metabolism
+Puromycin biosynthesis
+Caffeine metabolism
+Pyrimidine metabolism
+"Alanine, aspartate and glutamate metabolism"
+Tetracycline biosynthesis
+"Glycine, serine and threonine metabolism"
+Cysteine and methionine metabolism
+"Valine, leucine and isoleucine degradation"
+Geraniol degradation
+"Valine, leucine and isoleucine biosynthesis"
+Lysine biosynthesis
+Lysine degradation
+Penicillin and cephalosporin biosynthesis
+Arginine and proline metabolism
+Histidine metabolism
+Tyrosine metabolism
+DDT degradation
+Phenylalanine metabolism
+Chlorocyclohexane and chlorobenzene degradation
+Benzoate degradation
+Bisphenol degradation
+Fluorobenzoate degradation
+Tryptophan metabolism
+"Phenylalanine, tyrosine and tryptophan biosynthesis"
+Novobiocin biosynthesis
+beta-Alanine metabolism
+Taurine and hypotaurine metabolism
+Phosphonate and phosphinate metabolism
+Selenocompound metabolism
+Cyanoamino acid metabolism
+D-Arginine and D-ornithine metabolism
+Glutathione metabolism
+Starch and sucrose metabolism
+N-Glycan biosynthesis
+Mucin type O-Glycan biosynthesis
+Various types of N-glycan biosynthesis
+Amino sugar and nucleotide sugar metabolism
+Streptomycin biosynthesis
+"Biosynthesis of 12-, 14- and 16-membered macrolides"
+Polyketide sugar unit biosynthesis
+Glycosaminoglycan degradation
+Lipopolysaccharide biosynthesis
+Peptidoglycan biosynthesis
+Glycerolipid metabolism
+Inositol phosphate metabolism
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Glycerophospholipid metabolism
+Ether lipid metabolism
+Arachidonic acid metabolism
+Linoleic acid metabolism
+alpha-Linolenic acid metabolism
+Sphingolipid metabolism
+Glycosphingolipid biosynthesis - lacto and neolacto series
+Glycosphingolipid biosynthesis - globo series
+Glycosphingolipid biosynthesis - ganglio series
+Pyruvate metabolism
+Dioxin degradation
+Xylene degradation
+Toluene degradation
+Polycyclic aromatic hydrocarbon degradation
+Chloroalkane and chloroalkene degradation
+Naphthalene degradation
+Aminobenzoate degradation
+Glyoxylate and dicarboxylate metabolism
+Nitrotoluene degradation
+Propanoate metabolism
+Ethylbenzene degradation
+Styrene degradation
+Butanoate metabolism
+C5-Branched dibasic acid metabolism
+One carbon pool by folate
+Methane metabolism
+Carbon fixation in photosynthetic organisms
+Carbon fixation pathways in prokaryotes
+Thiamine metabolism
+Riboflavin metabolism
+Vitamin B6 metabolism
+Nicotinate and nicotinamide metabolism
+Pantothenate and CoA biosynthesis
+Biotin metabolism
+Lipoic acid metabolism
+Folate biosynthesis
+Atrazine degradation
+Retinol metabolism
+Porphyrin and chlorophyll metabolism
+Terpenoid backbone biosynthesis
+Indole alkaloid biosynthesis
+Limonene and pinene degradation
+Diterpenoid biosynthesis
+Brassinosteroid biosynthesis
+Carotenoid biosynthesis
+Zeatin biosynthesis
+Sesquiterpenoid and triterpenoid biosynthesis
+Nitrogen metabolism
+Sulfur metabolism
+Caprolactam degradation
+Phenylpropanoid biosynthesis
+Flavonoid biosynthesis
+Anthocyanin biosynthesis
+Isoflavonoid biosynthesis
+Flavone and flavonol biosynthesis
+"Stilbenoid, diarylheptanoid and gingerol biosynthesis"
+Isoquinoline alkaloid biosynthesis
+"Tropane, piperidine and pyridine alkaloid biosynthesis"
+Betalain biosynthesis
+Glucosinolate biosynthesis
+Aminoacyl-tRNA biosynthesis
+Metabolism of xenobiotics by cytochrome P450
+Insect hormone biosynthesis
+Drug metabolism - cytochrome P450
+Drug metabolism - other enzymes
+Biosynthesis of unsaturated fatty acids
+Biosynthesis of ansamycins
+Biosynthesis of siderophore group nonribosomal peptides
+Biosynthesis of type II polyketide backbone
+Biosynthesis of type II polyketide products
+<i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis
+orthanilate degradation
+4-hydroxymandelate degradation
+superpathway of 4-aminobutanoate degradation
+4-toluenecarboxylate degradation
+superpathway of acetate utilization and formation
+acetoacetate degradation (to acetyl CoA)
+L-methionine salvage from L-homocysteine
+L-alanine degradation II (to D-lactate)
+L-alanine degradation III
+L-alanine biosynthesis II
+L-alanine biosynthesis I
+superpathway of chorismate metabolism
+superpathway of allantoin degradation in yeast
+ammonia assimilation cycle III
+homolactic fermentation
+glycolysis III (from glucose)
+L-phenylalanine degradation II (anaerobic)
+L-arabinose degradation I
+superpathway of arginine and polyamine biosynthesis
+L-arginine degradation VII (arginase 3 pathway)
+L-arginine degradation VI (arginase 2 pathway)
+L-arginine degradation I (arginase pathway)
+"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"
+L-arginine degradation X (arginine monooxygenase pathway)
+L-arginine degradation V (arginine deiminase pathway)
+L-ornithine biosynthesis II
+"arginine, ornithine and proline interconversion"
+spermine biosynthesis
+L-arginine biosynthesis I (via L-ornithine)
+L-arginine biosynthesis II (acetyl cycle)
+chorismate biosynthesis I
+L-asparagine biosynthesis I
+L-asparagine degradation I
+L-asparagine degradation III (mammalian)
+L-aspartate degradation I
+L-aspartate biosynthesis
+superpathway of L-aspartate and L-asparagine biosynthesis
+anaerobic aromatic compound degradation (<i>Thauera aromatica</i>)
+&beta;-alanine degradation I
+glycine betaine biosynthesis I (Gram-negative bacteria)
+biotin biosynthesis I
+superpathway of branched chain amino acid biosynthesis
+spermidine biosynthesis I
+Calvin-Benson-Bassham cycle
+camalexin biosynthesis
+L-carnitine degradation I
+benzoyl-CoA degradation II (anaerobic)
+pyruvate fermentation to butanoate
+"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis I (aerobic, light-dependent)"
+choline degradation I
+L-citrulline biosynthesis
+L-citrulline degradation
+coenzyme A biosynthesis I
+coenzyme A biosynthesis II (mammalian)
+reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)
+colanic acid building blocks biosynthesis
+superpathway of aromatic amino acid biosynthesis
+cyanate degradation
+cyclohexanol degradation
+L-cysteine biosynthesis I
+L-lysine biosynthesis I
+D-arabitol degradation
+superpathway of purine nucleotides <i>de novo</i> biosynthesis II
+superoxide radicals degradation
+reactive oxygen species degradation
+glucose degradation (oxidative)
+"sulfate reduction IV (dissimilatory, to hydrogen sufide))"
+dTDP-L-rhamnose biosynthesis I
+enterobactin biosynthesis
+superpathway of ergosterol biosynthesis I
+ethylene biosynthesis I (plants)
+ethanol degradation I
+fatty acid &beta;-oxidation I
+fatty acid elongation -- saturated
+superpathway of fatty acid biosynthesis initiation (E. coli)
+mixed acid fermentation
+fluorene degradation I
+superpathway of tetrahydrofolate biosynthesis and salvage
+superpathway of fucose and rhamnose degradation
+fucose degradation
+superpathway of hexuronide and hexuronate degradation
+D-galactarate degradation I
+D-galactonate degradation
+D-galactose degradation II
+gallate degradation II
+&gamma;-hexachlorocyclohexane degradation
+"superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation"
+L-glutamine biosynthesis I
+<i>N</i>-acetylglucosamine degradation I
+<i>D</i>-glucarate degradation I
+superpathway of D-glucarate and D-galactarate degradation
+gluconeogenesis I
+D-gluconate degradation
+glucose and glucose-1-phosphate degradation
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation
+GABA shunt
+L-glutamate degradation VII (to butanoate)
+glutathione-glutaredoxin redox reactions
+L-glutamate degradation I
+L-glutamine degradation II
+glutathione biosynthesis
+L-glutamate degradation II
+L-ornithine biosynthesis I
+L-glutamate biosynthesis I
+L-glutamate biosynthesis III
+glycine biosynthesis II
+glycine cleavage
+glycogen degradation I
+glycogen biosynthesis I (from ADP-D-Glucose)
+superpathway of glycol metabolism and degradation
+glycolate and glyoxylate degradation I
+glycolysis I (from glucose 6-phosphate)
+superpathway of glycolysis and Entner-Doudoroff
+"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"
+glycolate and glyoxylate degradation II
+glyoxylate cycle
+glycine biosynthesis III
+glycine biosynthesis I
+"superpathway of glycerol degradation to 1,3-propanediol"
+heme biosynthesis I (aerobic)
+heme biosynthesis II (anaerobic)
+superpathway of hexitol degradation (bacteria)
+L-histidine biosynthesis
+L-cysteine biosynthesis III (from L-homocysteine)
+L-methionine biosynthesis I
+L-threonine biosynthesis
+L-homoserine biosynthesis
+L-methionine biosynthesis III
+<i>trans</i>-4-hydroxy-L-proline degradation I
+L-idonate degradation
+L-isoleucine degradation I
+L-isoleucine biosynthesis I (from threonine)
+superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis
+ketogluconate metabolism
+lactose degradation II
+xylitol degradation
+L-leucine degradation I
+L-leucine biosynthesis
+Lipid A-core biosynthesis
+triacylglycerol degradation
+phospholipases
+superpathway of lipopolysaccharide biosynthesis
+L-lysine degradation III
+L-lysine biosynthesis IV
+<I>m</I>-cresol degradation
+L-aspartate degradation II
+D-mannose degradation
+"protein <i>N</i>-glycosylation (eukaryotic, high mannose)"
+superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis
+methanogenesis from acetate
+superpathway of methylglyoxal degradation
+L-methionine degradation I (to L-homocysteine)
+methylgallate degradation
+L-homoserine and L-methionine biosynthesis
+methylglyoxal degradation VI
+NAD salvage pathway III
+NAD biosynthesis III
+NAD phosphorylation and dephosphorylation
+NAD phosphorylation and transhydrogenation
+NAD biosynthesis II (from tryptophan)
+methylerythritol phosphate pathway I
+pentose phosphate pathway (non-oxidative branch)
+Entner-Doudoroff pathway II (non-phosphorylative)
+<i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>)
+superpathway of L-arginine and L-ornithine degradation
+superpathway of ornithine degradation
+pentose phosphate pathway (oxidative branch) I
+ectoine biosynthesis
+TCA cycle IV (2-oxoglutarate decarboxylase)
+pyruvate fermentation to propanoate I
+adenine and adenosine salvage I
+heterolactic fermentation
+Bifidobacterium shunt
+"superpathway of (<i>R,R</i>)-butanediol biosynthesis"
+pyruvate fermentation to acetate I
+acetylene degradation
+L-glutamate degradation V (via hydroxyglutarate)
+L-lysine fermentation to acetate and butanoate
+purine nucleobases degradation I (anaerobic)
+superpathway of purines degradation in plants
+nicotine degradation I (pyridine pathway)
+protocatechuate degradation I (<I>meta</I>-cleavage pathway)
+formaldehyde assimilation III (dihydroxyacetone cycle)
+pentose phosphate pathway (partial)
+octane oxidation
+"sulfate reduction V (dissimilatory, to thiosulfate)"
+reductive TCA cycle I
+coenzyme B biosynthesis
+gallate degradation III (anaerobic)
+L-sorbose degradation
+benzoyl-CoA degradation III (anaerobic)
+glycolysis V (Pyrococcus)
+superpathway of acrylonitrile degradation
+aldoxime degradation
+adenosylcobalamin biosynthesis II (aerobic)
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
+pyruvate fermentation to acetate and lactate I
+incomplete reductive TCA cycle
+4-nitrotoluene degradation I
+superpathway of <i>N</i>-acetylneuraminate degradation
+"hexitol fermentation to lactate, formate, ethanol and acetate"
+adamantanone degradation
+choline-<i>O</i>-sulfate degradation
+L-proline betaine degradation
+<I>myo</I>-inositol degradation I
+nylon-6 oligomer degradation
+dibenzo-<I>p</I>-dioxin degradation
+dibenzofuran degradation
+phosphopantothenate biosynthesis I
+pantothenate and coenzyme A biosynthesis I
+pentose phosphate pathway
+L-phenylalanine biosynthesis I
+superpathway of phospholipid biosynthesis I (bacteria)
+superpathway of phospholipid biosynthesis II (plants)
+oxygenic photosynthesis
+pyridoxal 5'-phosphate salvage I
+superpathway of polyamine biosynthesis II
+superpathway of polyamine biosynthesis I
+polyisoprenoid biosynthesis (<i>E. coli</i>)
+ppGpp biosynthesis
+L-alanine fermentation to propanoate and acetate
+L-proline biosynthesis I
+L-proline degradation
+"superpathway of histidine, purine, and pyrimidine biosynthesis"
+putrescine degradation III
+gibberellin inactivation I (2&beta;-hydroxylation)
+glycolysis IV (plant cytosol)
+homogalacturonan biosynthesis
+suberin monomers biosynthesis
+L-homomethionine biosynthesis
+benzoyl-CoA degradation I (aerobic)
+fluorene degradation II
+mandelate degradation I
+formaldehyde assimilation I (serine pathway)
+"formate assimilation into 5,10-methylenetetrahydrofolate"
+&beta;-alanine degradation II
+formaldehyde oxidation II (glutathione-dependent)
+photorespiration
+indole-3-acetate activation I
+formaldehyde assimilation II (RuMP Cycle)
+formate oxidation to CO<sub>2</sub>
+superpathway of C1 compounds oxidation to CO<sub>2</sub>
+aurone biosynthesis
+indole-3-acetate activation II
+indole-3-acetate degradation I
+indole-3-acetate degradation IV
+isoflavonoid biosynthesis II
+folate polyglutamylation
+folate transformations I
+Entner-Doudoroff pathway III (semi-phosphorylative)
+superpathway of pterocarpan biosynthesis (via formononetin)
+ascorbate glutathione cycle
+<i>myo</i>-inositol biosynthesis
+daidzein conjugates interconversion
+"C4 photosynthetic carbon assimilation cycle, NADP-ME type"
+indole-3-acetate degradation VIII (bacterial)
+pisatin biosynthesis
+fatty acid &alpha;-oxidation I
+superpathway of aromatic compound degradation via 3-oxoadipate
+plant sterol biosynthesis
+brassinosteroid biosynthesis II
+isethionate degradation
+<i>trans</i>-zeatin biosynthesis
+trehalose degradation V
+alkane oxidation
+<i>cis</i>-zeatin biosynthesis
+cuticular wax biosynthesis
+cytokinins 7-<i>N</i>-glucoside biosynthesis
+cytokinins 9-<i>N</i>-glucoside biosynthesis
+cytokinin-<i>O</i>-glucosides biosynthesis
+L-lysine biosynthesis II
+L-lysine biosynthesis III
+superpathway of L-isoleucine biosynthesis I
+cyclohexane-1-carboxylate degradation (anaerobic)
+menthol biosynthesis
+L-lysine biosynthesis V
+superpathway of isoflavonoids (via naringenin)
+canavanine degradation
+flavonol biosynthesis
+linamarin degradation
+indole-3-acetate biosynthesis III (bacteria)
+L-tryptophan degradation V (side chain pathway)
+L-tryptophan degradation VI (via tryptamine)
+cutin biosynthesis
+UDP-L-rhamnose biosynthesis
+superpathway of ammonia assimilation (plants)
+L-proline biosynthesis III
+choline biosynthesis I
+L-tyrosine biosynthesis II
+L-phenylalanine biosynthesis II
+superpathway of L-phenylalanine and L-tyrosine biosynthesis
+superpathway of NAD biosynthesis in eukaryotes
+choline biosynthesis II
+choline biosynthesis III
+(<i>S</i>)-reticuline biosynthesis I
+phenylpropanoid biosynthesis
+&gamma;-butyrobetaine degradation
+L-carnitine degradation III
+glycine betaine degradation I
+glycine betaine degradation II (mammalian)
+glycine betaine biosynthesis II (Gram-positive bacteria)
+aerobic respiration I (cytochrome c)
+sucrose degradation II (sucrose synthase)
+nitrate reduction II (assimilatory)
+D-galactose degradation III
+folate transformations II
+mannitol degradation II
+mannitol biosynthesis
+&beta;-alanine biosynthesis II
+phosphopantothenate biosynthesis II
+&beta;-alanine biosynthesis I
+putrescine biosynthesis I
+L-asparagine degradation II
+&beta;-alanine betaine biosynthesis
+&gamma;-glutamyl cycle
+glutathione-mediated detoxification I
+glutathione-peroxide redox reactions
+D-sorbitol degradation I
+pantothenate and coenzyme A biosynthesis II (plants)
+pantothenate and coenzyme A biosynthesis III
+glycerol degradation I
+aerobic respiration III (alternative oxidase pathway)
+L-glutamate degradation IV
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation
+fatty acid biosynthesis initiation I
+curcumin glucoside biosynthesis
+wighteone and luteone biosynthesis
+arsenite oxidation I (respiratory)
+putrescine biosynthesis III
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis III (<i>Spirodela polyrrhiza</i>)
+kievitone biosynthesis
+phytate degradation I
+creatinine degradation II
+superpathway of choline biosynthesis
+aloesone biosynthesis I
+UDP-D-xylose biosynthesis
+UDP-&alpha;-D-glucuronate biosynthesis (from <i>myo</i>-inositol)
+6-methoxymellein biosynthesis
+sterculate biosynthesis
+L-proline biosynthesis II (from arginine)
+L-citrulline-nitric oxide cycle
+urea cycle
+canavanine biosynthesis
+superpathway of L-citrulline metabolism
+biotin biosynthesis II
+4-aminobutanoate degradation V
+indole-3-acetate biosynthesis IV (bacteria)
+indole-3-acetate biosynthesis V (bacteria and fungi)
+L-histidine degradation III
+gibberellin biosynthesis III (early C-13 hydroxylation)
+gibberellin biosynthesis II (early C-3 hydroxylation)
+<i>S</i>-adenosyl-L-methionine cycle II
+purine nucleotides degradation I (plants)
+2-oxoisovalerate decarboxylation to isobutanoyl-CoA
+gibberellin biosynthesis IV (<i>Gibberella fujikuroi</i>)
+rosmarinic acid biosynthesis I
+superpathway of gibberellin biosynthesis
+sorbitol biosynthesis I
+L-valine degradation II
+pinobanksin biosynthesis
+luteolin biosynthesis
+"6,7,4'-trihydroxyisoflavone biosynthesis"
+glycogen biosynthesis II (from UDP-D-Glucose)
+"gibberellin biosynthesis I (non C-3, non C-13 hydroxylation)"
+superpathway of rosmarinic acid biosynthesis
+mevalonate degradation
+L-leucine degradation III
+L-isoleucine degradation II
+L-phenylalanine degradation III
+very long chain fatty acid biosynthesis I
+L-methionine degradation III
+NAD/NADH phosphorylation and dephosphorylation
+2-oxoglutarate decarboxylation to succinyl-CoA
+L-glutamate degradation VIII (to propanoate)
+naringenin glycoside biosynthesis
+pyruvate fermentation to acetate and alanine
+L-lysine biosynthesis VI
+pyruvate fermentation to acetate and lactate II
+L-isoleucine biosynthesis II
+L-isoleucine biosynthesis III
+L-isoleucine biosynthesis IV
+hesperitin glycoside biosynthesis
+phytol salvage pathway
+L-isoleucine biosynthesis V
+2-methylbutanoate biosynthesis
+UDP-D-apiose biosynthesis (from UDP-D-glucuronate)
+UDP-sugars interconversion
+geranylgeranyl diphosphate biosynthesis
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
+geranyl diphosphate biosynthesis
+"<i>trans, trans</i>-farnesyl diphosphate biosynthesis"
+sphingolipid biosynthesis (plants)
+humulone biosynthesis
+cohumulone biosynthesis
+bitter acids biosynthesis
+xanthohumol biosynthesis
+fatty acid &beta;-oxidation II (peroxisome)
+"unsaturated, even numbered fatty acid &beta;-oxidation"
+pelargonidin conjugates biosynthesis
+cannabinoid biosynthesis
+long-chain fatty acid activation
+oleate biosynthesis I (plants)
+L-tyrosine degradation II
+leucodelphinidin biosynthesis
+anthocyanin biosynthesis (delphinidin 3-O-glucoside)
+L-arginine biosynthesis III (via <i>N</i>-acetyl-L-citrulline)
+superpathway of fatty acid biosynthesis II (plant)
+rose anthocyanin biosynthesis I (via cyanidin 5-<i>O</i>-&beta;-<i>D</i>-glucoside)
+6'-deoxychalcone metabolism
+ferulate and sinapate biosynthesis
+acetyl-CoA biosynthesis III (from citrate)
+superpathway of acetyl-CoA biosynthesis
+coumarin biosynthesis (via 2-coumarate)
+glutaryl-CoA degradation
+toluene degradation I (aerobic) (<I>via</I> <i>o</I>-cresol)
+toluene degradation II (aerobic) (via 4-methylcatechol)
+superpathway of aerobic toluene degradation
+toluene degradation VI (anaerobic)
+tetrapyrrole biosynthesis I (from glutamate)
+tetrapyrrole biosynthesis II (from glycine)
+lactate biosynthesis (archaea)
+soybean saponin I biosynthesis
+methyl-coenzyme M oxidation to CO<sub>2</sub>
+superpathway of pentose and pentitol degradation
+salvianin biosynthesis
+cardiolipin biosynthesis II
+phaseic acid biosynthesis
+sulfite oxidation III
+L-lysine degradation IV
+L-lysine degradation V
+shisonin biosynthesis
+anthocyanidin sophoroside metabolism
+sanguinarine and macarpine biosynthesis
+secologanin and strictosidine biosynthesis
+ajmaline and sarpagine biosynthesis
+thiosulfate oxidation II (via tetrathionate)
+superpathway of sulfur oxidation (<i>Acidianus ambivalens</i>)
+bixin biosynthesis
+superpathway of thiosulfate metabolism (<i>Desulfovibrio sulfodismutans</i>)
+gentiodelphin biosynthesis
+superpathway of sulfur metabolism (<i>Desulfocapsa sulfoexigens</i>)
+superpathway of anthocyanin biosynthesis (from delphinidin 3-<i>O</i>-glucoside)
+superpathway of anthocyanin biosynthesis (from pelargonidin 3-O-glucoside)
+superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-<i>O</i>-glucoside)
+nicotine biosynthesis
+coumarin metabolism (to melilotic acid)
+kaempferol glycoside biosynthesis (Arabidopsis)
+quercetin glycoside biosynthesis (Arabidopsis)
+superpathway of L-lysine degradation
+superpathway of L-methionine salvage and degradation
+stachyose biosynthesis
+galactosylcyclitol biosynthesis
+chalcone 2'-<i>O</i>-glucoside biosynthesis
+sulfate activation for sulfonation
+ajugose biosynthesis I (galactinol-dependent)
+ajugose biosynthesis II (galactinol-independent)
+L-homocysteine biosynthesis
+superpathway of L-methionine biosynthesis (by sulfhydrylation)
+superpathway of L-methionine biosynthesis (transsulfuration)
+esculetin biosynthesis
+thiosulfate disproportionation IV (rhodanese)
+"arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"
+linear furanocoumarin biosynthesis
+petroselinate biosynthesis
+dimorphecolate biosynthesis
+B series fagopyritols biosynthesis
+A series fagopyritols biosynthesis
+pyridine nucleotide cycling (plants)
+sucrose degradation IV (sucrose phosphorylase)
+methylglyoxal degradation I
+syringetin biosynthesis
+reductive TCA cycle II
+raspberry ketone biosynthesis
+crocetin biosynthesis
+betacyanin biosynthesis
+amaranthin biosynthesis
+betaxanthin biosynthesis (via dopamine)
+superpathway of betalain biosynthesis
+divinyl ether biosynthesis I
+9-lipoxygenase and 9-allene oxide synthase pathway
+9-lipoxygenase and 9-hydroperoxide lyase pathway
+traumatin and (<i>Z</i>)-3-hexen-1-yl acetate biosynthesis
+abietic acid biosynthesis
+levopimaric acid biosynthesis
+neoabietic acid biosynthesis
+palustric acid biosynthesis
+superpathway of diterpene resin acids biosynthesis
+dehydroabietic acid biosynthesis
+isopimaric acid biosynthesis
+betaxanthin biosynthesis
+naphthalene degradation (aerobic)
+superpathway of lipoxygenase
+"(3<i>E</i>)-4,8-dimethylnona-1,3,7-triene biosynthesis"
+L-threonine degradation I
+S-methyl-L-methionine cycle
+methylglyoxal degradation III
+methylglyoxal degradation V
+"superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle"
+matairesinol biosynthesis
+sesamin biosynthesis
+hydroxycinnamic acid serotonin amides biosynthesis
+pentagalloylglucose biosynthesis
+gallotannin biosynthesis
+superpathway of hydrolyzable tannin biosynthesis
+6-methoxypodophyllotoxin biosynthesis
+pyruvate fermentation to ethanol I
+pyruvate fermentation to acetate II
+glycolysis II (from fructose 6-phosphate)
+pyruvate fermentation to acetate IV
+pyruvate fermentation to ethanol II
+diethylphosphate degradation
+purine nucleobases degradation II (anaerobic)
+L-glutamate and L-glutamine biosynthesis
+methanol oxidation to formaldehyde IV
+adenosylcobalamin biosynthesis I (anaerobic)
+UDP-<i>N</i>-acetyl-D-galactosamine biosynthesis II
+L-arabinose degradation III
+D-arabinose degradation III
+"5,6-dimethylbenzimidazole biosynthesis I (aerobic)"
+superpathway of bacteriochlorophyll <i>a</i> biosynthesis
+sorbitol biosynthesis II
+"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis II (anaerobic)"
+pyruvate fermentation to acetate V
+pyruvate fermentation to acetate VI
+pyruvate fermentation to acetate VII
+superpathway of glyoxylate cycle and fatty acid degradation
+"2,4-dinitrotoluene degradation"
+4-nitrotoluene degradation II
+4-chloronitrobenzene degradation
+2-nitrobenzoate degradation I
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde
+L-tryptophan degradation IX
+GDP-mannose biosynthesis
+taxol biosynthesis
+GDP-glucose biosynthesis
+tetrahydrobiopterin biosynthesis I
+tetrahydrobiopterin biosynthesis II
+vanillin biosynthesis I
+&alpha;-solanine/&alpha;-chaconine biosynthesis
+CDP-diacylglycerol biosynthesis I
+cardiolipin biosynthesis I
+phosphatidylethanolamine biosynthesis I
+epoxysqualene biosynthesis
+nitrate reduction V (assimilatory)
+acetyl-CoA fermentation to butanoate II
+succinate fermentation to butanoate
+UMP biosynthesis I
+TCA cycle II (plants and fungi)
+urate degradation to allantoin I
+allantoin degradation to glyoxylate I
+urate biosynthesis/inosine 5'-phosphate degradation
+allantoin degradation to ureidoglycolate I (urea producing)
+urea degradation II
+alliin metabolism
+propanethial <i>S</i>-oxide biosynthesis
+Rubisco shunt
+vestitol and sativan biosynthesis
+(5<i>R</i>)-carbapenem carboxylate biosynthesis
+ethylmalonyl-CoA pathway
+3-hydroxypropanoate cycle
+glyoxylate assimilation
+&gamma;-coniciene and coniine biosynthesis
+itaconate biosynthesis
+phenylethanol biosynthesis
+4-hydroxybenzoate biosynthesis I (eukaryotes)
+saponin biosynthesis II
+saponin biosynthesis III
+&beta;-alanine biosynthesis IV
+"1,3,5-trimethoxybenzene biosynthesis"
+pyruvate fermentation to acetate VIII
+gossypol biosynthesis
+saponin biosynthesis IV
+hypericin biosynthesis
+2-keto-L-gulonate biosynthesis
+indole-3-acetate conjugate biosynthesis II
+3-hydroxypropanoate/4-hydroxybutanate cycle
+maysin biosynthesis
+malonate degradation I (biotin-independent)
+indole-3-acetate degradation VI
+xylan biosynthesis
+alizarin biosynthesis
+hyperforin and adhyperforin biosynthesis
+indole-3-acetate biosynthesis II
+dodecaprenyl diphosphate biosynthesis
+validamycin biosynthesis
+dalcochinin biosynthesis
+hypoglycin biosynthesis
+geranyl acetate biosynthesis
+colchicine biosynthesis
+cinchona alkaloids biosynthesis
+ubiquinol-7 biosynthesis (prokaryotic)
+ubiquinol-9 biosynthesis (prokaryotic)
+ubiquinol-10 biosynthesis (prokaryotic)
+superpathway of phylloquinol biosynthesis
+superpathway of plastoquinol biosynthesis
+<i>t</i>-anethole biosynthesis
+ubiquinol-8 biosynthesis (eukaryotic)
+ubiquinol-9 biosynthesis (eukaryotic)
+ubiquinol-10 biosynthesis (eukaryotic)
+ubiquinol-7 biosynthesis (eukaryotic)
+staphyloxanthin biosynthesis
+magnoflorine biosynthesis
+beta-carboline biosynthesis
+epoxypseudoisoeugenol-2-methylbutanoate biosynthesis
+wax esters biosynthesis II
+4-hydroxyphenylpyruvate biosynthesis
+tridecaprenyl diphosphate biosynthesis
+superpathway of menaquinol-12 biosynthesis
+superpathway of menaquinol-13 biosynthesis
+hypusine biosynthesis
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+2'-deoxymugineic acid phytosiderophore biosynthesis
+partial TCA cycle (obligate autotrophs)
+superpathay of heme biosynthesis from glutamate
+superpathway of heme biosynthesis from glycine
+glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation
+afrormosin conjugates interconversion
+xyloglucan biosynthesis
+(<i>R</i>)-acetoin biosynthesis I
+(<i>R</i>)-acetoin biosynthesis II
+streptomycin biosynthesis
+glycogen degradation II
+sterigmatocystin biosynthesis
+acridone alkaloid biosynthesis
+superpathway of aflatoxin biosynthesis
+fatty acid biosynthesis initiation III
+fatty acid biosynthesis initiation II
+fatty acids biosynthesis (yeast)
+palmitate biosynthesis II (bacteria and plants)
+stearate biosynthesis I (animals and fungi)
+<i>cis</i>-vaccenate biosynthesis
+furaneol biosynthesis
+dhurrin degradation
+kanosamine biosynthesis I
+3-amino-5-hydroxybenzoate biosynthesis
+CDP-diacylglycerol biosynthesis III
+rifamycin B biosynthesis
+sorgoleone biosynthesis
+stearate biosynthesis II (bacteria and plants)
+thalianol and derivatives biosynthesis
+superpathway of rifamycin B biosynthesis
+palmitate biosynthesis I (animals and fungi)
+linoleate biosynthesis I (plants)
+oleate biosynthesis II (animals and fungi)
+&gamma;-linolenate biosynthesis II (animals)
+linoleate biosynthesis II (animals)
+lotaustralin degradation
+glucosinolate biosynthesis from tryptophan
+apigenin glycosides biosynthesis
+vitexin and derivatives biosynthesis
+isovitexin glycosides biosynthesis
+serotonin and melatonin biosynthesis
+cardenolide biosynthesis
+chlorogenic acid biosynthesis I
+methylthiopropanonate degradation II (demethylation)
+"2,4,6-trinitrotoluene degradation"
+dimethylsulfoniopropanoate biosynthesis I (Wollastonia)
+dimethylsulfoniopropanoate biosynthesis II (Spartina)
+dimethylsulfoniopropanoate degradation II (cleavage)
+"bile acid biosynthesis, neutral pathway"
+indican biosynthesis
+indigo biosynthesis
+superpathway of phenylethylamine degradation
+zymosterol biosynthesis
+ergosterol biosynthesis I
+4-ethylphenol degradation (anaerobic)
+"2,4-dichlorophenoxyacetate  degradation"
+4-chloro-2-methylphenoxyacetate degradation
+4-chlorocatechol degradation
+3-chlorobenzoate degradation I (via chlorocatechol)
+3-chlorocatechol degradation I (<i>ortho</i>)
+diploterol and cycloartenol biosynthesis
+L-carnitine biosynthesis
+chlorosalicylate degradation
+mitochondrial L-carnitine shuttle
+spermine and spermidine degradation I
+glycerol-3-phosphate shuttle
+L-tyrosine biosynthesis III
+5-aminoimidazole ribonucleotide biosynthesis I
+5-aminoimidazole ribonucleotide biosynthesis II
+inosine-5'-phosphate biosynthesis I
+inosine-5'-phosphate biosynthesis II
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II
+dolichol and dolichyl phosphate biosynthesis
+glycerol degradation II
+gluconeogenesis II (<i>Methanobacterium thermoautotrophicum</i>)
+superpathway of CMP-sialic acids biosynthesis
+<i>Methanobacterium thermoautotrophicum</i> biosynthetic metabolism
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+tetrahydromethanopterin biosynthesis
+<i>S</i>-adenosyl-L-methionine cycle I
+autoinducer AI-2 biosynthesis I
+autoinducer AI-2 biosynthesis II (<i>Vibrio</i>)
+chorismate biosynthesis from 3-dehydroquinate
+3-dehydroquinate biosynthesis I
+chorismate biosynthesis II (archaea)
+flavin biosynthesis II (archaea)
+flavin biosynthesis III (fungi)
+mevalonate pathway II (archaea)
+superpathway of Allium flavor precursors
+"2,4,6-trichlorophenol degradation"
+histamine degradation
+superpathway of salicylate degradation
+salicylate degradation I
+methylsalicylate degradation
+"2,4-dichlorotoluene degradation"
+3-chlorocatechol degradation II (<i>ortho</i>)
+"2,4,5-trichlorophenoxyacetate degradation"
+sucrose degradation III (sucrose invertase)
+starch biosynthesis
+luteolin glycosides biosynthesis
+demethylmenaquinol-8 biosynthesis II
+superpathway of menaquinol-8 biosynthesis II
+superpathway of flavones and derivatives biosynthesis
+isoprene biosynthesis I
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+myxol-2' fucoside biosynthesis
+L-selenocysteine biosynthesis II (archaea and eukaryotes)
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)
+superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)
+superpathway of fatty acids biosynthesis (<i>E. coli</i>)
+spheroidene and spheroidenone biosynthesis
+superpathway of L-cysteine biosynthesis (mammalian)
+L-cysteine biosynthesis IV (fungi)
+tuberonate glucoside biosynthesis
+methyl indole-3-acetate interconversion
+putrescine biosynthesis IV
+"L-tryptophan degradation X (mammalian, via tryptamine)"
+L-cysteine biosynthesis II (tRNA-dependent)
+"L-tryptophan degradation XI (mammalian, via kynurenine)"
+aloesone biosynthesis II
+barbaloin biosynthesis
+serotonin degradation
+plumbagin biosynthesis
+aromatic polyketides biosynthesis
+D-galactose degradation I (Leloir pathway)
+"L-phenylalanine degradation IV (mammalian, via side chain)"
+phaselate biosynthesis
+phosphinothricin tripeptide biosynthesis
+camptothecin biosynthesis
+L-lysine degradation X
+acetaldehyde biosynthesis II
+coumestrol biosynthesis
+acetaldehyde biosynthesis I
+protocatechuate degradation III (<I>para</I>-cleavage pathway)
+superpathway of vanillin and vanillate degradation
+syringate degradation
+"5,5'-dehydrodivanillate degradation"
+noradrenaline and adrenaline degradation
+L-ornithine degradation II (Stickland reaction)
+K-252 biosynthesis
+staurosporine biosynthesis
+phosphate acquisition
+archaetidylinositol biosynthesis
+"D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis"
+3-phosphoinositide biosynthesis
+purine nucleotides degradation II (aerobic)
+"superpathway of D-<i>myo</i>-inositol (1,4,5)-trisphosphate metabolism"
+"1D-<i>myo</i>-inositol hexakisphosphate biosynthesis I  (from Ins(1,4,5)P3)"
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis II (mammalian)
+"D-<i>myo</i>-inositol (1,4,5)-trisphosphate degradation"
+"D-<i>myo</i>-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"
+"D-<i>myo</i>-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"
+D-<i>myo</i>-inositol-5-phosphate metabolism
+3-phosphoinositide degradation
+inositol pyrophosphates biosynthesis
+ascorbate recycling (cytosolic)
+superpathway of inositol phosphate compounds
+1D-<i>myo</i>-inositol hexakisphosphate biosynthesis IV (<i>Dictyostelium</i>)
+acrylate degradation
+vibriobactin biosynthesis
+"mono-<i>trans</i>, poly-<i>cis</i> decaprenyl phosphate biosynthesis"
+peptidoglycan biosynthesis III (mycobacteria)
+(<i>S</i>)-acetoin biosynthesis
+<i>meso</i>-butanediol biosynthesis I
+<i>meso</i>-butanediol biosynthesis II
+superpathway of seleno-compound metabolism
+"superpathway of 2,3-butanediol biosynthesis"
+mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+hispidol and hispidol 4'-<i>O</i>-&beta;-<i>D</i>-glucoside biosynthesis
+carrageenan biosynthesis
+superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+yersiniabactin biosynthesis
+pyochelin biosynthesis
+pyoverdine I biosynthesis
+proanthocyanidins biosynthesis from flavanols
+L-ascorbate biosynthesis V
+shikimate degradation II
+rot-2'-enonate biosynthesis
+ricinoleate biosynthesis
+curcuminoid biosynthesis
+hydroxylated fatty acid biosynthesis (plants)
+4-hydroxybenzoate biosynthesis V
+spermidine hydroxycinnamic acid conjugates biosynthesis
+"benzoate biosynthesis I (CoA-dependent, &beta;-oxidative)"
+"benzoate biosynthesis III (CoA-dependent, non-&beta;-oxidative)"
+stigma estolide biosynthesis
+vancomycin resistance I
+serinol biosynthesis
+<i>trans</i>-cinnamoyl-CoA biosynthesis
+benzoyl-CoA biosynthesis
+peptidoglycan cross-bridge biosynthesis III (Enterococcus faecalis)
+peptidoglycan cross-bridge biosynthesis IV (Weissella viridescens)
+peptidoglycan biosynthesis V (&beta;-lactam resistance)
+gibberellin inactivation II (methylation)
+diphthamide biosynthesis (archaea)
+ceramide degradation
+gibberellin inactivation III (epoxidation)
+ergotamine biosynthesis
+oxidized GTP and dGTP detoxification
+superpathway of ergotamine biosynthesis
+L-tryptophan degradation XII (Geobacillus)
+phloridzin biosynthesis
+superpathway of microbial D-galacturonate and D-glucuronate degradation
+<i>N</i>-acetylglucosamine degradation II
+8-amino-7-oxononanoate biosynthesis I
+lychnose and isolychnose biosynthesis
+stellariose and mediose biosynthesis
+limonene degradation III (to perillate)
+stachyose degradation
+4-aminobutanoate degradation I
+4-aminobutanoate degradation III
+4-aminobutanoate degradation II
+costunolide biosynthesis
+4-aminobenzoate biosynthesis
+superpathway of C28 brassinosteroid biosynthesis
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis III
+brassinosteroids inactivation
+L-glutamine biosynthesis III
+"1D-<i>myo</i>-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)"
+superpathway of 1D-<i>myo</i>-inositol hexakisphosphate biosynthesis (plants)
+pyrimidine ribonucleosides salvage II
+heparan sulfate biosynthesis (late stages)
+spermidine biosynthesis II
+norspermidine biosynthesis
+heparan sulfate biosynthesis
+superpathway of polyamine biosynthesis III
+juvenile hormone III biosynthesis I
+farnesylcysteine salvage pathway
+superpathway of guanine and guanosine salvage
+phosphatidylinositol biosynthesis I (bacteria)
+"spirilloxanthin and 2,2'-diketo-spirilloxanthin biosynthesis"
+pyruvate fermentation to butanol I
+2-methylketone biosynthesis
+pyruvate fermentation to ethanol III
+pyruvate fermentation to acetone
+superpathway of <i>Clostridium acetobutylicum</i> acidogenic fermentation
+sulfoacetate degradation
+superpathway of <i>Clostridium acetobutylicum</i> solventogenic fermentation
+superpathway of guanosine nucleotides degradation (plants)
+adenosine nucleotides degradation I
+sciadonate biosynthesis
+guanine and guanosine salvage II
+C-glycosylflavone biosynthesis I
+superpathway of <i>Clostridium acetobutylicum</i> acidogenic and solventogenic fermentation
+adenine and adenosine salvage II
+guanosine nucleotides degradation II
+guanosine nucleotides degradation I
+guanosine nucleotides degradation III
+adenine and adenosine salvage III
+adenine salvage
+superpathway of tetrahydrofolate biosynthesis
+"tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate"
+tetrahydrofolate biosynthesis
+adenine and adenosine salvage VI
+guanine and guanosine salvage
+salicylate glucosides biosynthesis I
+salicylate glucosides biosynthesis II
+salicylate glucosides biosynthesis III
+cytidine-5'-diphosphate-glycerol biosynthesis
+salinosporamide A biosynthesis
+superpathway of L-phenylalanine biosynthesis
+superpathway of L-tryptophan biosynthesis
+superpathway of L-tyrosine biosynthesis
+<i>O</i> -methylation of tricetin
+"caffeine degradation V (bacteria, via trimethylurate)"
+3-sulfopropanediol degradation
+sulfolactate degradation II
+sulfolactate degradation III
+salicylate degradation IV
+superpathway of sulfolactate degradation
+(<i>R</i>)-cysteate degradation
+coenzyme M biosynthesis II
+phosphopantothenate biosynthesis III
+xanthan biosynthesis
+polyhydroxydecanoate biosynthesis
+acetan biosynthesis
+fusicoccin A biosynthesis
+2-heptyl-3-hydroxy-4(1<i>H</i>)-quinolone biosynthesis
+4-hydroxy-2(1<i>H</i>)-quinolone biosynthesis
+superpathway of quinolone and alkylquinolone biosynthesis
+di-myo-inositol phosphate biosynthesis
+resveratrol degradation
+citronellol degradation
+<i>cis</i>-genanyl-CoA degradation
+caffeoylglucarate biosynthesis
+sulfur oxidation IV (intracellular sulfur)
+superpathway of sulfide oxidation (phototrophic sulfur bacteria)
+jadomycin biosynthesis
+neurosporaxanthin biosynthesis
+dehydrophos biosynthesis
+sulfate reduction III (assimilatory)
+mannosylglucosylglycerate biosynthesis I
+tRNA splicing I
+plaunotol biosynthesis
+Fe(II) oxidation
+D-galactose degradation IV
+oxalate degradation III
+preQ<sub>0</sub> biosynthesis
+L-ascorbate degradation IV
+ubiquinol-8 biosynthesis (prokaryotic)
+poly-hydroxy fatty acids biosynthesis
+L-rhamnose degradation II
+L-rhamnose degradation III
+toyocamycin biosynthesis
+sangivamycin biosynthesis
+candicidin biosynthesis
+starch degradation II
+methylaspartate cycle
+starch degradation III
+sporopollenin precursors biosynthesis
+starch degradation IV
+sulfur volatiles biosynthesis
+starch degradation V
+pinitol biosynthesis II
+CMP-legionaminate biosynthesis I
+<i>S</i>-methyl-5'-thioadenosine degradation II
+xylose degradation III
+salicylate glucosides biosynthesis IV
+salicortin biosynthesis
+salicin biosynthesis
+"1,3-&beta;-D-glucan biosynthesis"
+cellulose and hemicellulose degradation (cellulolosome)
+detoxification of reactive carbonyls in chloroplasts
+flavonoid biosynthesis (in equisetum)
+cellulose degradation II (fungi)
+scopoletin biosynthesis
+demethylmenaquinol-8 biosynthesis III
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (archaea)
+fatty acid biosynthesis (plant mitochondria)
+salidroside biosynthesis
+phosphatidylcholine acyl editing
+diacylglycerol biosynthesis (PUFA enrichment in oilseed)
+carotenoid cleavage
+ornithine lipid biosynthesis
+diphyllin biosynthesis
+&kappa;-carrageenan degradation
+molybdenum cofactor biosynthesis
+justicidin B biosynthesis
+phosphatidylcholine biosynthesis V
+tRNA methylation (yeast)
+superpathway of methanogenesis
+pyrrolnitrin biosynthesis
+2-aminoethylphosphonate degradation II
+spermidine biosynthesis III
+6-gingerol biosynthesis
+"fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)"
+homoglutathione biosynthesis
+homophytochelatin biosynthesis
+glutathione-mediated detoxification II
+rutin degradation
+ethylene biosynthesis III (microbes)
+chitin degradation I (archaea)
+retinol biosynthesis
+<i>all-trans</i>-farnesol biosynthesis
+pyruvate fermentation to hexanol (engineered)
+3-methylbutanol biosynthesis (engineered)
+long chain fatty acid ester synthesis (engineered)
+isopropanol biosynthesis (engineered)
+pyruvate fermentation to butanol II (engineered)
+1-butanol autotrophic biosynthesis (engineered)
+kauralexin biosynthesis
+zealexin biosynthesis
+thiazole biosynthesis II (aerobic bacteria)
+thiazole biosynthesis I (facultative anaerobic bacteria)
+thiamine diphosphate biosynthesis II (Bacillus)
+thiamine diphosphate biosynthesis I (E. coli)
+superpathway of thiamine diphosphate biosynthesis II
+thiamine salvage II
+thiamine salvage III
+base-degraded thiamine salvage
+superpathway of glucose and xylose degradation
+chitin degradation II (Vibrio)
+chitin derivatives degradation
+thiamine diphosphate biosynthesis III (Staphylococcus)
+thiamine diphosphate biosynthesis IV (eukaryotes)
+thiazole biosynthesis III (eukaryotes)
+pentalenolactone biosynthesis
+vernolate biosynthesis III
+neopentalenoketolactone and pentalenate biosynthesis
+6-gingerol analog biosynthesis (engineered)
+L-<i>N<sup>&delta;</sup></i>-acetylornithine biosynthesis
+superpathway of cholesterol degradation I (cholesterol oxidase)
+phenolic malonylglucosides biosynthesis
+selenate reduction
+seleno-amino acid detoxification and volatilization II
+seleno-amino acid biosynthesis
+superpathway of testosterone and androsterone degradation
+NADH repair
+androstenedione degradation
+cholesterol degradation to androstenedione I (cholesterol oxidase)
+cholesterol degradation to androstenedione II (cholesterol dehydrogenase)
+superpathway of cholesterol degradation II (cholesterol dehydrogenase)
+sitosterol degradation to androstenedione
+glycerophosphodiester degradation
+superpathway of aromatic compound degradation via 2-oxopent-4-enoate
+lincomycin biosynthesis
+naphthalene degradation to acetyl-CoA
+mandelate degradation to acetyl-CoA
+icosapentaenoate biosynthesis I (lower eukaryotes)
+"L-ascorbate degradation II (bacterial, aerobic)"
+superpathway of trimethylamine degradation
+ammonia assimilation cycle I
+ammonia assimilation cycle II
+trimethylamine degradation
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)
+oleandomycin biosynthesis
+oleandomycin activation/inactivation
+"dTDP-D-olivose, dTDP-D-oliose and dTDP-D-mycarose biosynthesis"
+dTDP-L-olivose biosynthesis
+dTDP-L-mycarose biosynthesis
+superpathway of erythromycin biosynthesis
+plastoquinol-9 biosynthesis II
+chitin biosynthesis
+umbelliferone biosynthesis
+tetrahydrobiopterin biosynthesis III
+lipoate salvage II
+lipoate biosynthesis and incorporation III (Bacillus)
+(-)-camphor degradation
+brassinosteroid biosynthesis I
+(+)-camphor biosynthesis
+(-)-camphor biosynthesis
+"1,5-anhydrofructose degradation"
+nicotine degradation II (pyrrolidine pathway)
+daidzin and daidzein degradation
+CDP-D-arabitol biosynthesis
+4-hydroxyacetophenone degradation
+glycerol degradation to butanol
+4-amino-3-hydroxybenzoate degradation
+methyl ketone biosynthesis (engineered)
+"2,2'-dihydroxybiphenyl degradation"
+2-propylphenol degradation
+2-isopropylphenol degradation
+"L-1,2-propanediol degradation"
+paromomycin biosynthesis
+L-methionine biosynthesis II
+superpathway of the 3-hydroxypropanoate cycle
+gentamicin biosynthesis
+"hentriaconta-3,6,9,12,15,19,22,25,28-nonaene biosynthesis"
+terminal olefins biosynthesis II
+alkane biosynthesis II
+(<i>Z</i>)-9-tricosene biosynthesis
+very long chain fatty acid biosynthesis II
+protein <i>O</i>-glycosylation (bacterial)
+"phosphatidate metabolism, as a signaling molecule"
+violacein biosynthesis
+the visual cycle (insects)
+mithramycin biosynthesis
+4-coumarate degradation (anaerobic)
+"icosapentaenoate biosynthesis II (6-desaturase, mammals)"
+icosapentaenoate biosynthesis IV (bacteria)
+docosahexaenoate biosynthesis I (lower eukaryotes)
+daphnetin modification
+daphnin interconversion
+cichoriin interconversion
+esculetin modification
+3-amino-3-phenylpropanoyl-CoA biosynthesis
+"2&alpha;,7&beta;-dihydroxylation of taxusin"
+glycyrrhetinate biosynthesis
+betulinate biosynthesis
+ursolate biosynthesis
+steviol biosynthesis
+steviol glucoside biosynthesis (rebaudioside A biosynthesis)
+hopanoid biosynthesis (bacteria)
+phenylethanol glycoconjugate biosynthesis
+"3,5-dimethoxytoluene biosynthesis"
+<i>N</i>-acetyl-D-galactosamine degradation
+geodin biosynthesis
+4-aminophenol degradation
+ammonia oxidation IV (autotrophic ammonia oxidizers)
+triethylamine degradation
+taxiphyllin bioactivation
+linustatin bioactivation
+neolinustatin bioactivation
+fatty acid salvage
+spinosyn A biosynthesis
+bisabolene biosynthesis (engineered)
+dTDP-L-megosamine biosynthesis
+olivetol biosynthesis (olivetol synthase by-products synthesis)
+megalomicin A biosynthesis
+superpathway of megalomicin A biosynthesis
+pyruvate fermentation to isobutanol (engineered)
+4-hydroxy-2-nonenal detoxification
+"C4 photosynthetic carbon assimilation cycle, NAD-ME type"
+"C4 photosynthetic carbon assimilation cycle, PEPCK type"
+chitin degradation to ethanol
+sphingolipid recycling and degradation (yeast)
+ethylene biosynthesis V (engineered)
+ethylene biosynthesis IV (engineered)
+CDP-D-mannitol biosynthesis
+nicotine degradation III (VPP pathway)
+quercetin glucoside biosynthesis (<i>Allium</i>)
+L-glucose degradation
+quercetin glucoside degradation (<i>Allium</i>)
+rutin degradation (plants)
+emetine biosynthesis
+quercetin gentiotetraside biosynthesis
+noscapine biosynthesis
+sesaminol glucoside biosynthesis
+myricetin gentiobioside biosynthesis
+(3<i>S</i>)-linalool biosynthesis
+kaempferol gentiobioside biosynthesis
+genistin gentiobioside biosynthesis
+superpathway of polymethylated quercetin/quercetagetin glucoside biosynthesis (Chrysosplenium)
+polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)
+polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)
+grixazone biosynthesis
+ergosterol biosynthesis II
+7-dehydroporiferasterol biosynthesis
+superpathway of ergosterol biosynthesis II
+eupatolitin 3-<i>O</i>-glucoside biosynthesis
+"3,8-divinyl-chlorophyllide <i>a</i> biosynthesis III (aerobic, light independent)"
+polymethylated myricetin biosynthesis (tomato)
+polymethylated quercetin biosynthesis
+polymethylated kaempferol biosynthesis
+L-ascorbate biosynthesis VI (engineered pathway)
+kaempferide triglycoside biosynthesis
+flavonol acylglucoside biosynthesis I - kaempferol derivatives
+hyperxanthone E biosynthesis
+flavonol acylglucoside biosynthesis II - isorhamnetin derivatives
+flavonol acylglucoside biosynthesis III - quercetin derivatives
+<i>S</i>-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation II
+nostoxanthin biosynthesis
+UTP and CTP <i>de novo</i> biosynthesis
+UTP and CTP dephosphorylation II
+pyrimidine deoxyribonucleosides degradation
+linalool biosynthesis I
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I
+UTP and CTP dephosphorylation I
+superpathway of scopolin and esculin biosynthesis
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II
+C-glycosylflavone biosynthesis II
+C-glycosylflavone biosynthesis III
+kaempferol diglycoside biosynthesis (pollen-specific)
+quercetin diglycoside biosynthesis (pollen-specific)
+pyrimidine ribonucleosides salvage I
+pyrimidine nucleobases salvage II
+pyrimidine ribonucleosides salvage III
+superpathway of pyrimidine ribonucleosides salvage
+pyrimidine deoxyribonucleotide phosphorylation
+pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis IV
+pyrimidine deoxyribonucleosides salvage
+superpathway of pyrimidine deoxyribonucleoside salvage
+pyridoxal 5'-phosphate salvage II (plants)
+CMP phosphorylation
+pyrimidine deoxyribonucleotides dephosphorylation
+superpathway of pyrimidine nucleobases salvage
+superpathway of pyrimidine ribonucleosides degradation
+3-methylquinoline degradation
+pyrimidine deoxyribonucleotides biosynthesis from CTP
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis
+baicalein metabolism
+wogonin metabolism
+(R)- and (S)-3-hydroxybutanoate biosynthesis (engineered)
+photosynthetic 3-hydroxybutanoate biosynthesis (engineered)
+adenosine ribonucleotides <i>de novo</i> biosynthesis
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II
+guanosine ribonucleotides <i>de novo</i> biosynthesis
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II
+purine deoxyribonucleosides salvage
+guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I
+adenosine deoxyribonucleotides <i>de novo</i> biosynthesis
+superpathway of guanosine nucleotides <i>de novo</i> biosynthesis I
+superpathway of adenosine nucleotides <i>de novo</i> biosynthesis I
+alkylnitronates degradation
+ubiquinol-6 biosynthesis from 4-aminobenzoate (eukaryotic)
+gibberellin biosynthesis V
+ubiquinol-6 bypass biosynthesis (eukaryotic)
+inosine-5'-phosphate biosynthesis III
+superpathway of ubiquinol-6 biosynthesis (eukaryotic)
+"<i>myo</i>-, <i>chiro</i>- and <i>scillo</i>-inositol degradation"
+sucrose biosynthesis II
+"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"
+<I>myo</I>-inositol degradation II
+superpathway NAD/NADP - NADH/NADPH interconversion (yeast)
+pectin degradation II
+&beta;-D-glucuronide and D-glucuronate degradation
+pectin degradation III
+[2Fe-2S] iron-sulfur cluster biosynthesis
+pentacyclic triterpene biosynthesis
+luteolinidin 5-<i>O</i>-glucoside biosynthesis
+apigeninidin 5-<i>O</i>-glucoside biosynthesis
+TCA cycle VII (acetate-producers)
+ergothioneine biosynthesis I (bacteria)
+cyanidin diglucoside biosynthesis (acyl-glucose dependent)
+anthocyanidin 3-malylglucoside biosynthesis (acyl-glucose dependent)
+lampranthin biosynthesis
+NAD/NADP-NADH/NADPH cytosolic interconversion (yeast)
+NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)
+L-methionine salvage cycle II (plants)
+D-cycloserine biosynthesis
+L-homophenylalanine biosynthesis
+sphingolipid biosynthesis (mammals)
+aerobic respiration II (cytochrome c) (yeast)
+ternatin C3 biosynthesis
+4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis (yeast)
+wybutosine biosynthesis
+methylwyosine biosynthesis
+7-(3-amino-3-carboxypropyl)-wyosine biosynthesis
+novobiocin biosynthesis
+"fatty acid &beta;-oxidation (peroxisome, yeast)"
+L-cysteine biosynthesis V
+"oleate &beta;-oxidation (isomerase-dependent, yeast)"
+"oleate &beta;-oxidation (thioesterase-dependent, yeast)"
+xylose degradation IV
+L-arabinose degradation IV
+nevadensin biosynthesis
+ecdysone and 20-hydroxyecdysone biosynthesis
+dTDP-4-<i>O</i>-demethyl-&beta;-L-noviose biosynthesis
+3-dimethylallyl-4-hydroxybenzoate biosynthesis
+"3-amino-4,7-dihydroxy-coumarin biosynthesis"
+superpathway of steroid hormone biosynthesis
+"oleate &beta;-oxidation (reductase-dependent, yeast)"
+acrylonitrile degradation I
+superpathway of dTDP-glucose-derived O-antigen building blocks biosynthesis
+"dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucose biosynthesis"
+ecdysteroid metabolism (arthropods)
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis
+salvigenin biosynthesis
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis
+UDP-<i>N</i>-acetyl-&beta;-L-quinovosamine biosynthesis
+superpathway of UDP-<I>N</i>-acetylglucosamine-derived O-antigen building blocks biosynthesis
+UDP-<i>N</i>-acetyl-&alpha;-D-fucosamine biosynthesis
+UDP-<i>N</i>-acetyl-&alpha;-D-quinovosamine biosynthesis
+10-<i>cis</i>-heptadecenoyl-CoA degradation (yeast)
+"10-<i>trans</i>-heptadecenoyl-CoA degradation (reductase-dependent, yeast)"
+"10-<i>trans</i>-heptadecenoyl-CoA degradation (MFE-dependent, yeast)"
+"9-<i>cis</i>, 11-<i>trans</i>-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)"
+superpathway of nicotine biosynthesis
+UDP-glucose biosynthesis
+UDP-D-galactose biosynthesis
+superpathway of anaerobic sucrose degradation
+UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)
+sucrose biosynthesis III
+jasmonic acid biosynthesis
+daunorubicin biosynthesis
+aclacinomycin biosynthesis
+thiamine salvage IV (yeast)
+thiamine formation from pyrithiamine and oxythiamine (yeast)
+papaverine biosynthesis
+phosphatidylglycerol degradation
+phosphatidylcholine resynthesis via glycerophosphocholine
+demethylmenaquinol-6 biosynthesis II
+superpathway of demethylmenaquinol-6 biosynthesis II
+mRNA capping I
+mRNA capping II
+biotin biosynthesis from 8-amino-7-oxononanoate II
+lipoate biosynthesis and incorporation (yeast)
+"anaerobic energy metabolism (invertebrates, cytosol)"
+"anaerobic energy metabolism (invertebrates, mitochondrial)"
+"1,3-propanediol biosynthesis (engineered)"
+hypotaurine degradation
+"octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"
+superpathway of anaerobic energy metabolism (invertebrates)
+isoprene biosynthesis II (engineered)
+taxadiene biosynthesis (engineered)
+urate degradation to allantoin II
+D-galactosamine and <i>N</i>-acetyl-D-galactosamine degradation
+butanol and isobutanol biosynthesis (engineered)
+coumarins biosynthesis (engineered)
+L-arginine biosynthesis IV (archaebacteria)
+crotonate fermentation (to acetate and cyclohexane carboxylate)
+benzoate fermentation (to acetate and cyclohexane carboxylate)
+tetramethylpyrazine degradation
+ceramide phosphoethanolamine biosynthesis
+aurachin RE biosynthesis
+"aurachin A, B, C and D biosynthesis"
+"phospholipid remodeling (phosphatidylethanolamine, yeast)"
+ipsdienol biosynthesis
+phosphatidate biosynthesis (yeast)
+mycinamicin biosynthesis
+tylosin biosynthesis
+"phospholipid remodeling (phosphatidylcholine, yeast)"
+"phospholipid remodeling (phosphatidate, yeast)"
+FR-900098 and FR-33289 antibiotics biosynthesis
+monoacylglycerol metabolism (yeast)
+bombykol biosynthesis
+sterol:steryl ester interconversion (yeast)
+2-chloroacrylate degradation I
+2-chloroacrylate degradation II
+indole degradation to anthranil and anthranilate
+aromatic biogenic amine degradation (bacteria)
+"L-phenylalanine biosynthesis III (cytosolic, plants)"
+superpathway of dTDP-glucose-derived antibiotic building blocks biosynthesis
+dTDP-&beta;-L-evernitrose biosynthesis
+dTDP-&beta;-L-4-<i>epi</i>-vancosamine biosynthesis
+drosopterin and aurodrosopterin biosynthesis
+luteolin triglucuronide degradation
+galloylated catechin biosynthesis
+acylated cyanidin galactoside biosynthesis
+anthocyanidin modification (<i>Arabidopsis</i>)
+cyanidin dimalonylglucoside biosynthesis
+"&beta;-(1,4)-mannan degradation"
+violdelphin biosynthesis
+2-<i>O</i>-acetyl-3-<i>O</i>-<i>trans</i>-coutarate biosynthesis
+hydroxycinnamate sugar acid ester biosynthesis
+"3,3'-dithiodipropanoate degradation"
+<i>N</i>-methylanthraniloyl-&beta;-<i>D</i>-glucopyranose biosynthesis
+"cyanidin 3,7-diglucoside polyacylation biosynthesis"
+"3,3'-thiodipropanoate degradation"
+"2-acetamido-4-amino-2,4,6-trideoxy-&alpha;-D-galactosyl-diphospho-<i>ditrans,octacis</i>-undecaprenol biosynthesis"
+benzoyl-&beta;-<i>D</i>-glucopyranose biosynthesis
+phosphatidylcholine biosynthesis VII
+avenacin A-1 biosynthesis
+avenacin A-2 biosynthesis
+des-methyl avenacin A-1 biosynthesis
+superpathway of avenacin A biosynthesis
+momilactone A biosynthesis
+oryzalexin D and E biosynthesis
+"2,3-dihydroxybenzoate degradation"
+cyclooctatin biosynthesis
+elloramycin biosynthesis
+"phytocassanes biosynthesis, shared reactions"
+tetracenomycin C biosynthesis
+(+)-secoisolariciresinol diglucoside biosynthesis
+"oryzalexin A, B, and C biosynthesis"
+patulin biosynthesis
+podophyllotoxin glucosides metabolism
+paspaline biosynthesis
+paxilline and diprenylpaxilline biosynthesis
+linuron degradation
+3&beta;-hydroxysesquiterpene lactone biosynthesis
+phenylpropanoids methylation (ice plant)
+phosphatidylserine biosynthesis I
+chelerythrine biosynthesis
+cardiolipin and phosphatidylethanolamine biosynthesis (<i>Xanthomonas</i>)
+rhizocticin A and B biosynthesis
+"3,5,6-trichloro-2-pyridinol degradation"
+flaviolin dimer and mompain biosynthesis
+L-tyrosine degradation IV (to 4-methylphenol)
+L-lyxonate degradation
+brassicicene C biosynthesis
+atromentin biosynthesis
+terrequinone A biosynthesis
+3-(4-sulfophenyl)butanoate degradation
+L-arginine degradation XII
+mevalonate pathway III (archaea)
+L-methionine salvage cycle III
+L-methionine salvage cycle I (bacteria and plants)
+CMP-<i>N</i>-acetyl-7-<i>O</i>-acetylneuraminate biosynthesis
+mannojirimycin biosynthesis
+acetylaszonalenin biosynthesis
+gliotoxin biosynthesis
+gliotoxin inactivation
+2-amino-3-hydroxycyclopent-2-enone biosynthesis
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)
+aflatrem biosynthesis
+"1,2-propanediol biosynthesis from lactate (engineered)"
+fumiquinazoline D biosynthesis
+5-<i>N</i>-acetylardeemin biosynthesis
+diphthamide biosynthesis (eukaryotes)
+prodigiosin biosynthesis
+methylthiolincosamide biosynthesis
+asperlicin E biosynthesis
+ergothioneine biosynthesis II (fungi)
+heme biosynthesis III (from siroheme)
+heme <i>d</i><sub>1</sub> biosynthesis
+&alpha;-cyclopiazonate biosynthesis
+(-)-microperfuranone biosynthesis
+(-)-dehydrodiconiferyl alcohol degradation
+&alpha;-cyclopiazonate detoxification
+glutathione degradation (DUG pathway - yeast)
+methylerythritol phosphate pathway II
+tenellin biosynthesis
+bassianin and desmethylbassianin biosynthesis
+bacimethrin and bacimethrin pyrophosphate biosynthesis
+aspyridone A biosynthesis
+L-galactose degradation
+arginomycin biosynthesis
+blasticidin S biosynthesis
+ferrichrome A biosynthesis
+lolitrem B biosynthesis
+propanoyl-CoA degradation II
+superpathway of candicidin biosynthesis
+ferrichrome biosynthesis
+mercaptosuccinate degradation
+arachidonate biosynthesis II (bacteria)
+docosahexaenoate biosynthesis II (bacteria)
+"&beta;-1,4-D-mannosyl-<i>N</i>-acetyl-D-glucosamine degradation"
+oleate biosynthesis III (cyanobacteria)
+palmitoleate biosynthesis III (cyanobacteria)
+okenone biosynthesis
+"arachidonate biosynthesis III (6-desaturase, mammals)"
+superpathway of stearidonate biosynthesis (cyanobacteria)
+anditomin biosynthesis
+peramine biosynthesis
+"arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)"
+"icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)"
+stephacidin A biosynthesis
+notoamide C and D biosynthesis
+roquefortine C biosynthesis
+"docosahexaenoate biosynthesis III (6-desaturase, mammals)"
+meleagrin biosynthesis
+neoxaline biosynthesis
+"superpathway of roquefortine, meleagrin and neoxaline biosynthesis"
+GDP-6-deoxy-D-<i>altro</i>-heptose biosynthesis
+chaetoglobosin A biosynthesis
+GDP-6-deoxy-D-<i>manno</i>-heptose biosynthesis
+methiin metabolism
+"pterocarpan phytoalexins modification (maackiain, medicarpin, pisatin, phaseollin)"
+ricinoleate biosynthesis
+juniperonate biosynthesis
+naphthalene degradation (anaerobic)
+autoinducer CAI-1 biosynthesis
+UDP-galactofuranose biosynthesis
+astaxanthin dirhamnoside biosynthesis
+nystatin biosynthesis
+phosphatidylinositol biosynthesis II (eukaryotes)
+bacilysin biosynthesis
+yatein biosynthesis II
+arctigenin and isoarctigenin biosynthesis
+hinokiresinol biosynthesis
+calycosin 7-<i>O</i>-glucoside biosynthesis
+vernolate biosynthesis II
+astaxanthin biosynthesis (flowering plants)
+"2,2'-dihydroxyketocarotenoids biosynthesis"
+echinenone and zeaxanthin biosynthesis (<i>Synechocystis</i>)
+neophaseic acid biosynthesis
+7'-hydroxyabscisate biosynthesis
+coniferyl alcohol 9-methyl ester biosynthesis
+ulvan degradation
+4-methyl-proline biosynthesis
+3-hydroxy-<i>L</i>-homotyrosine biosynthesis
+echinocandin B biosynthesis
+echinocandin B degradation
+griseofulvin biosynthesis
+"(8<i>E</i>,10<i>E</i>)-dodeca-8,10-dienol biosynthesis"
+dechlorogriseofulvin biosynthesis
+<i>Spodoptera littoralis</i> pheromone biosynthesis
+dTDP-&beta;-L-digitoxose biosynthesis
+protein <I>N</i>-glycosylation (<i>Methanococcus voltae</i>)
+viridicatumtoxin biosynthesis
+tryptoquialanine biosynthesis
+protein <I>N</i>-glycosylation (<i>Haloferax volcanii</i>)
+gondoate biosynthesis (anaerobic)
+oleate biosynthesis IV (anaerobic)
+aureobasidin A biosynthesis
+apicidin biosynthesis
+apicidin F biosynthesis
+equisetin biosynthesis
+fusaridione A biosynthesis
+saframycin A biosynthesis
+fusaric acid biosynthesis
+fusarin C biosynthesis
+rosamicin biosynthesis
+anthocyanidin acylglucoside and acylsambubioside biosynthesis
+arabidopyrone biosynthesis
+L-malate degradation II
+stipitatate biosynthesis
+dTDP-D-ravidosamine and dTDP-4-acetyl-D-ravidosamine biosynthesis
+8-<i>O</i>-methylfusarubin biosynthesis
+holomycin biosynthesis
+"10,13-epoxy-11-methyl-octadecadienoate biosynthesis"
+bikaverin biosynthesis
+guadinomine B biosynthesis
+zwittermicin A biosynthesis
+aurofusarin biosynthesis
+citreoisocoumarin and bikisocoumarin biosynthesis
+geranyl &beta;-primeveroside biosynthesis
+"2,5-xylenol and 3,5-xylenol degradation"
+sch210971 and sch210972 biosynthesis
+"2,4-xylenol degradation to protocatechuate"
+viridicatin biosynthesis
+4'-methoxyviridicatin biosynthesis
+dapdiamides biosynthesis
+lyngbyatoxin biosynthesis
+(3<i>R</i>)-linalool biosynthesis
+calonectrin biosynthesis
+deoxynivalenol biosynthesis
+nivalenol biosynthesis
+harzianum A and trichodermin biosynthesis
+superpathway of trichothecene biosynthesis
+penicillin G and penicillin V biosynthesis
+3-hydroxy-4-methyl-anthranilate biosynthesis I
+CMP-diacetamido-8-epilegionaminic acid biosynthesis
+ophiobolin F biosynthesis
+methyl phomopsenoate biosynthesis
+"icosapentaenoate biosynthesis III (8-desaturase, mammals)"
+"arachidonate biosynthesis V (8-detaturase, mammals)"
+"(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis (6-desaturase)"
+"docosahexaenoate biosynthesis IV (4-desaturase, mammals)"
+"(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)"
+T-2 toxin biosynthesis
+superpathway of photosynthetic hydrogen production
+3-hydroxyquinaldate biosynthesis
+quinoxaline-2-carboxylate biosynthesis
+echinomycin and triostin A biosynthesis
+stellatic acid biosynthesis
+thiocoraline biosynthesis
+aucuparin biosynthesis
+mycobacterial sulfolipid biosynthesis
+shinorine biosynthesis
+bile acids degradation
+bisphenol A degradation
+NAD salvage pathway II
+3-hydroxy-4-methyl-anthranilate biosynthesis II
+heme biosynthesis IV (Gram-positive bacteria)
+leucine degradation IV
+phosalacine biosynthesis
+indolmycin biosynthesis
+butachlor degradation
+2-methylpropene degradation
+methyl <i>tert</i>-butyl ether degradation
+butane degradation
+plasmalogen biosynthesis
+UMP biosynthesis II
+UMP biosynthesis III
+nocardicin A biosynthesis
+protein <i>S</i>-nitrosylation and denitrosylation
+Arg/N-end rule pathway (eukaryotic)
+Ac/N-end rule pathway
+tRNA splicing II
+aminomethylphosphonate degradation
+glyphosate degradation III
+dTDP-L-daunosamine biosynthesis
+poly(ribitol phosphate) wall teichoic acid biosynthesis II (<i>S. aureus</i>)
+type I lipoteichoic acid biosynthesis (<i>S. aureus</i>)
+type IV lipoteichoic acid biosynthesis (<i>S. pneumoniae</i>)
+poly(3-O-&beta;-D-glucopyranosyl-<i>N</i>-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis
+teichuronic acid biosynthesis (<i>B. subtilis</i> 168)
+tunicamycin biosynthesis
+chitin degradation III (Serratia)
+prunasin and amygdalin biosynthesis
+<i>Amaryllidacea</i> alkaloids biosynthesis
+super pathway of glycosphingolipids biosynthesis
+ganglio-series glycosphingolipids biosynthesis
+globo-series glycosphingolipids biosynthesis
+lacto-series glycosphingolipids biosynthesis
+neolacto-series glycosphingolipids biosynthesis
+L-homocysteine and L-cysteine interconversion
+toluene degradation to benzoyl-CoA (anaerobic)
+superpathway of sulfur amino acid biosynthesis (<i>Saccharomyces cerevisiae</i>)
+fructan biosynthesis
+monolignol glucosides biosynthesis
+resveratrol biosynthesis
+superpathway of purine nucleotides <i>de novo</i> biosynthesis I
+starch degradation I
+fructan degradation
+trehalose biosynthesis II
+L-ascorbate biosynthesis I (L-galactose pathway)
+mevalonate pathway I
+salicylate biosynthesis II
+L-cysteine biosynthesis VI (from L-methionine)
+L-alanine biosynthesis III
+superpathway of L-alanine biosynthesis
+trehalose degradation II (trehalase)
+putrescine degradation II
+anhydromuropeptides recycling
+biotin-carboxyl carrier protein assembly
+lipoate biosynthesis and incorporation II
+pyrimidine ribonucleosides degradation
+superpathway of pyrimidine deoxyribonucleosides degradation
+aminopropylcadaverine biosynthesis
+L-glutamate degradation IX (via 4-aminobutanoate)
+acetate formation from acetyl-CoA I
+acetate conversion to acetyl-CoA
+CDP-diacylglycerol biosynthesis II
+superpathway of L-asparagine biosynthesis
+succinate to cytochrome <i>bo</i> oxidase electron transfer
+NADH to cytochrome <i>bd</i> oxidase electron transfer I
+NADH to cytochrome <i>bo</i> oxidase electron transfer I
+NADH to fumarate electron transfer
+oleate &beta;-oxidation
+NADH to trimethylamine <i>N</i>-oxide electron transfer
+NADH to dimethyl sulfoxide electron transfer
+nitrate reduction VIII (dissimilatory)
+succinate to cytochrome <i>bd</i> oxidase electron transfer
+superpathway of heme biosynthesis from uroporphyrinogen-III
+tetrahydromonapterin biosynthesis
+trehalose degradation VI (periplasmic)
+tRNA processing
+biotin biosynthesis from 8-amino-7-oxononanoate I
+sedoheptulose bisphosphate bypass
+proline to cytochrome <i>bo</i> oxidase electron transfer
+cardiolipin biosynthesis III
+glycerol-3-phosphate to cytochrome <i>bo</i> oxidase electron transfer
+nitrate reduction IX (dissimilatory)
+glycerol-3-phosphate to fumarate electron transfer
+"nitrate reduction X (dissimilatory, periplasmic)"
+N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis
+superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis
+superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (E. coli)
+"L-ascorbate degradation I (bacterial, anaerobic)"
+phenylacetate degradation I (aerobic)
+glycerol and glycerophosphodiester degradation
+2-methylcitrate cycle I
+conversion of succinate to propanoate
+lipoate biosynthesis and incorporation I
+cyclopropane fatty acid (CFA) biosynthesis
+PRPP biosynthesis I
+aspartate superpathway
+L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage
+(5Z)-dodec-5-enoate biosynthesis
+superpathway of fatty acid biosynthesis I (E. coli)
+L-selenocysteine biosynthesis I (bacteria)
+polyhydroxybutanoate biosynthesis
+actinorhodin biosynthesis
+leucopelargonidin and leucocyanidin biosynthesis
+flavonoid biosynthesis
+mycothiol biosynthesis
+superpathway of linalool biosynthesis
+sphingomyelin metabolism
+sphingosine and sphingosine-1-phosphate metabolism
+ceramide <i>de novo</i> biosynthesis
+L-ascorbate biosynthesis IV
+superpathway of 4-hydroxybenzoate biosynthesis (yeast)
+ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)
+stearate biosynthesis III (fungi)
+NAD salvage pathway IV
+L-tyrosine degradation III
+acetoin biosynthesis III
+phosphatidylcholine biosynthesis I
+"dehydro-D-arabinono-1,4-lactone biosynthesis"
+nitrate reduction VI (assimilatory)
+L-asparagine biosynthesis III (tRNA-dependent)
+L-ascorbate biosynthesis II (L-gulose pathway)
+abscisic acid biosynthesis shunt
+phosphatidylcholine biosynthesis II
+phosphatidylcholine biosynthesis III
+phosphatidylcholine biosynthesis IV
+superpathway of phosphatidylcholine biosynthesis
+phosphatidylethanolamine biosynthesis II
+phosphatidylglycerol biosynthesis I (plastidic)
+phosphatidylglycerol biosynthesis II (non-plastidic)
+superpathway of fermentation (<i>Chlamydomonas reinhardtii</i>)
+phthalate degradation
+ethanol degradation III
+ethanol degradation IV
+nicotine degradation IV
+ethanol degradation II
+nicotine degradation V
+bupropion degradation
+"cholesterol biosynthesis II (via 24,25-dihydrolanosterol)"
+catecholamine biosynthesis
+cholesterol biosynthesis I
+flavin biosynthesis IV (mammalian)
+ketogenesis
+ketolysis
+sucrose degradation V (sucrose &alpha;-glucosidase)
+C20 prostanoid biosynthesis
+leukotriene biosynthesis
+glucocorticoid biosynthesis
+mineralocorticoid biosynthesis
+fatty acid &alpha;-oxidation II
+fatty acid &alpha;-oxidation III
+phytol degradation
+fatty acid &beta;-oxidation VI (peroxisome)
+lipoxin biosynthesis
+aspirin-triggered lipoxin biosynthesis
+aspirin triggered resolvin D biosynthesis
+resolvin D biosynthesis
+TCA cycle III (animals)
+gluconeogenesis III
+cholesterol biosynthesis III (via desmosterol)
+superpathway of purine nucleotide salvage
+D-galactose degradation V (Leloir pathway)
+"fructose 2,6-bisphosphate biosynthesis"
+L-lysine degradation II (L-pipecolate pathway)
+L-threonine degradation V
+superpathway of cholesterol biosynthesis
+dopamine degradation
+CO<sub>2</sub> fixation into oxaloacetate (anaplerotic)
+indole glucosinolate activation (herbivore attack)
+indole glucosinolate activation (intact plant cell)
+NAD salvage pathway I
+NAD biosynthesis I (from aspartate)
+pyridoxal 5'-phosphate biosynthesis I
+pyruvate decarboxylation to acetyl CoA
+TCA cycle VIII (helicobacter)
+ribose degradation
+flavin biosynthesis I (bacteria and plants)
+formaldehyde oxidation I
+adenosine nucleotides degradation II
+S-adenosyl-L-methionine biosynthesis
+superpathway of L-serine and glycine biosynthesis I
+L-serine biosynthesis
+sulfate reduction I (assimilatory)
+sophorolipid biosynthesis
+sphingolipid biosynthesis (yeast)
+sucrose degradation VII (sucrose 3-dehydrogenase)
+sucrose biosynthesis I (from photosynthesis)
+sucrose degradation I (sucrose phosphotransferase)
+superpathway of sulfate assimilation and cysteine biosynthesis
+sulfate reduction II (assimilatory)
+TCA cycle I (prokaryotic)
+superpathway of glyoxylate bypass and TCA
+thioredoxin pathway
+superpathway of thiamine diphosphate biosynthesis I
+superpathway of thiamine diphosphate biosynthesis III (eukaryotes)
+superpathway of L-threonine metabolism
+superpathway of L-threonine biosynthesis
+toluene degradation to 2-oxopent-4-enoate I (<I>via</I> <i>o</I>-cresol)
+toluene degradation to 2-oxopent-4-enoate (<I>via 4-methylcatechol</i>)
+trehalose biosynthesis III
+trehalose biosynthesis I
+diacylglycerol and triacylglycerol biosynthesis
+tRNA charging
+L-tryptophan degradation I (via anthranilate)
+L-tryptophan biosynthesis
+L-tryptophan degradation III (eukaryotic)
+L-tyrosine degradation I
+L-tyrosine biosynthesis I
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II
+UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I
+superpathway of allantoin degradation in plants
+ureide biosynthesis
+L-valine degradation I
+L-valine biosynthesis
+xylose degradation I

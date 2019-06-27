@@ -14,7 +14,7 @@ docker pull $DOCKER_IMAGENAME
 
 printf "\n${SEP_STRING} Downloading data from DDS ${SEP_STRING}"
 
-~/.local/bin/ddsclient download -p HTS_course --include hts_2019_data/hts2019_pilot_rawdata/21_2019_P_M1_S21_L002_R1_001.fastq.gz $DATA_DIR
+ddsclient download -p HTS_course --include hts_2019_data/hts2019_pilot_rawdata/21_2019_P_M1_S21_L002_R1_001.fastq.gz $DATA_DIR
 
 
 printf "\n${SEP_STRING} Cloning repo from gitlab ${SEP_STRING}"

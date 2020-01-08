@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
@@ -8,7 +8,7 @@ import sys
 
 def main():
     parser = argparse.ArgumentParser(description="Reverse-complement sequences in input file.")
-    parser.add_argument("FASTA_FILE", type=file,
+    parser.add_argument("FASTA_FILE", type=argparse.FileType('r'),
                         help="Multi-FASTA file containing the sequences to reverse-complement")
     parser.add_argument("-o", "--output",type=argparse.FileType('w'),
                         default=sys.stdout,metavar="OUTFILE",

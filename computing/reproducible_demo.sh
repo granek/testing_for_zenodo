@@ -1,20 +1,8 @@
-DEMO_BASE="/tmp/reproducible_demo"
-WORK_DIR="$DEMO_BASE/work"
-DATA_DIR="$DEMO_BASE/data"
-DOCKER_IMAGENAME="dukehtscourse/jupyter-hts-2019"
-MY_PASSWORD="BadPa55word"
-
-mkdir -p $WORK_DIR $DATA_DIR
-
-SEP_STRING="\n--------------------------------------------------\n"
-
-printf "\n${SEP_STRING} Pulling docker image: $DOCKER_IMAGENAME ${SEP_STRING}"
-docker pull $DOCKER_IMAGENAME
+# DEMO_BASE="/tmp/reproducible_demo"
+# DATA_DIR="$DEMO_BASE/data"
 
 
-printf "\n${SEP_STRING} Downloading data from DDS ${SEP_STRING}"
 
-ddsclient download -p HTS_course --include hts_2019_data/hts2019_pilot_rawdata/21_2019_P_M1_S21_L002_R1_001.fastq.gz $DATA_DIR
 
 
 printf "\n${SEP_STRING} Cloning repo from gitlab ${SEP_STRING}"

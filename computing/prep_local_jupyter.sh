@@ -1,5 +1,5 @@
 set -u
-TARGET_DIR=`readlink -f ${1:-"hts2018"}`
+TARGET_DIR=`readlink -f ${1:-"/tmp/reproducible_demo"}`
 GIT_METHOD=${2:-"https"}
 
 if [ $# -lt 1 ]; then
@@ -10,9 +10,14 @@ if [ $# -lt 1 ]; then
 fi
 
 WORK_DIR=$TARGET_DIR/jovyan/work
-DATA_DIR=$TARGET_DIR/data/hts2018_pilot
+DATA_DIR=$TARGET_DIR/data
 JUPYTER_DIR=$TARGET_DIR/jupyter-HTS-2018
-NOTEBOOK_DIR=$WORK_DIR/HTS2018-notebooks
+NOTEBOOK_DIR=$WORK_DIR/HTS2019-notebooks
+DOCKER_IMAGENAME="dukehtscourse/jupyter-hts-2019"
+MY_PASSWORD="BadPa55word"
+
+SEP_STRING="\n--------------------------------------------------\n"
+
 
 rm -rf $NOTEBOOK_DIR $JUPYTER_DIR
 mkdir -p $WORK_DIR $DATA_DIR
@@ -20,14 +25,14 @@ mkdir -p $WORK_DIR $DATA_DIR
 
 DownloadData() {
     # Get data subset
-    # https://unix.stackexchange.com/a/76242
-    # rsync  -avvzC --include="*/" --include='*.checksum' --include='35_MA_*.fastq.gz' --include='27_MA_*.fastq.gz' --exclude="*" vcm3:/tmp/hts2018/Granek_4837_180427A5 $DATA_DIR
-    rsync  -avvzC --include="*/" --include='*.checksum' --include='35_MA_*.fastq.gz' --exclude="*" vcm3:/tmp/hts2018/Granek_4837_180427A5 $DATA_DIR
-    # md5sum -vc Granek_4837_180427A5/Granek_4837_180427A5.checksum 
-    # md5sum -vc Granek_4837_180427A5/Granek_4837_180427A5.checksum | grep -v open
+    printf "\n${SEP_STRING} Downloading data from DDS ${SEP_STRING}"
+
+    ddsclient download -p HTS_course --include hts_2019_data/hts2019_pilot_rawdata/21_2019_P_M1_S21_L002_R1_001.fastq.gz $DATA_DIR
+
 }
 
 DownloadNotebooks() {
+
     if [ $GIT_METHOD == "ssh" ] ; then
 	echo "Cloning HTS2018-notebooks.git with ssh"
 	NOTEBOOK_URL="git@gitlab.oit.duke.edu:HTS2018/HTS2018-notebooks.git"
@@ -39,25 +44,12 @@ DownloadNotebooks() {
 }
 
 
-# Build Jupyter Docker Image
-BuildImage() {
-    if [ $GIT_METHOD == "ssh" ] ; then
-	echo "Cloning jupyter-HTS-2018.git with ssh"
-	JUPYTER_GIT="git@gitlab.oit.duke.edu:HTS2018/jupyter-HTS-2018.git"
-    else
-	echo "Cloning jupyter-HTS-2018.git with https"
-	JUPYTER_GIT="https://gitlab.oit.duke.edu/HTS2018/jupyter-HTS-2018.git"
-    fi
-    git clone $JUPYTER_GIT $JUPYTER_DIR
-    docker build -t mccahill/jupyter-hts-2018 $JUPYTER_DIR
-}
-
 PullImage() {
-    docker pull mccahill/jupyter-hts-2018
+    printf "\n${SEP_STRING} Pulling docker image: $DOCKER_IMAGENAME ${SEP_STRING}"
+    docker pull $DOCKER_IMAGENAME
 }
 
 RunImage() {
-    DOCKER_IMAGE="jupyter-hts-2018"
     JUPYTER_PORT="9999"
     SESSION_INFO_FILE="session_info_${DOCKER_IMAGE}_${JUPYTER_PORT}.txt"
     echo $SESSION_INFO_FILE

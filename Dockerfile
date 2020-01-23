@@ -143,7 +143,7 @@ RUN mkdir /home/$NB_USER/work && \
     echo "cacert=/etc/ssl/certs/ca-certificates.crt" > /home/$NB_USER/.curlrc
     
 RUN cd /home/$NB_USER/work && \
-    git clone git@gitlab.oit.duke.edu:hts2019/hts2019-notebooks.git
+    git clone https://gitlab.oit.duke.edu/hts2019/hts2019-notebooks.git
 
 USER root
 

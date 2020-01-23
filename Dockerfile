@@ -141,6 +141,9 @@ RUN mkdir /home/$NB_USER/work && \
     mkdir -p /home/$NB_USER/.local/share/jupyter/runtime && \
     printf "Host gitlab.oit.duke.edu \n \t IdentityFile ~/work/.HTSgitlab.key\n"  > /home/$NB_USER/.ssh/config && \
     echo "cacert=/etc/ssl/certs/ca-certificates.crt" > /home/$NB_USER/.curlrc
+    
+RUN cd /home/$NB_USER/work && \
+    git clone git@gitlab.oit.duke.edu:hts2019/hts2019-notebooks.git
 
 USER root
 

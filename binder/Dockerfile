@@ -224,7 +224,9 @@ USER $NB_USER
 
 # Configure ipython kernel to use matplotlib inline backend by default
 RUN mkdir -p $HOME/.ipython/profile_default/startup
-COPY mplimporthook.py $HOME/.ipython/profile_default/startup/
+
+# Not sure if we need this. Removing for binder because it can't find this file.
+#COPY mplimporthook.py $HOME/.ipython/profile_default/startup/
 
 #----------- end scipy
 

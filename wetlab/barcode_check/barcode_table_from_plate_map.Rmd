@@ -1,0 +1,194 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readxl)
+library(dplyr)
+library(tibble)
+library(tidyr)
+library(readr)
+library(stringr)
+library(openxlsx)
+```
+
+
+## Set paths
+```{r}
+# original data paths
+sample_layout.xlsx = "../../../2019_HTS_course/wetlab/protocols/sample_and_library_info.xlsx"
+spreadsheet_label = "2019_lab_plate"
+
+sample_metadata.xlsx = "../../../2019_HTS_course/wetlab/protocols/HTS_RNA_2019.xlsx"
+
+neb_nextseq_barcode.url="https://www.neb.com/-/media/nebus/files/excel/e7600_nextseq_v4.csv?la=en&rev=d332d2b116c24d9295e5967f940218df&hash=2AF55A100FDFD07F4E4504504FB01DA6D825D8CC"
+
+# local copy filenames
+sample_layout.csv = "sample_layout.csv"
+sample_metadata.csv = "sample_metadata.csv"
+neb_nextseq_barcode.csv="neb_nextseq_barcode.csv"
+```
+
+## Save local copy of data
+### Save Excel layout spreadsheet as CSV
+```{r eval=FALSE, include=FALSE}
+excel_sheets(sample_layout.xlsx)
+read_excel(sample_layout.xlsx, sheet=spreadsheet_label, skip=5) %>%
+  select(1:8) %>%
+  write_csv(sample_layout.csv)
+```
+
+### Save Excel metadata spreadsheet as CSV
+```{r eval=FALSE, include=FALSE}
+excel_sheets(sample_metadata.xlsx)
+read_excel(sample_metadata.xlsx, sheet="Sheet1", skip=2, n_max=24) %>%
+  select(1:9) %>%
+  mutate(Genotype=str_replace(Genotype, "sre1∆", "sre1d")) %>%
+  write_csv(sample_metadata.csv)
+```
+
+### Save local copy of NEB barcode map
+```{r eval=FALSE, include=FALSE}
+download.file(neb_nextseq_barcode.url, neb_nextseq_barcode.csv)
+```
+
+## Get Wells from Plate Layout
+```{r}
+read_csv(sample_layout.csv) %>%
+  select(-X__2) %>%
+  rename(row = X__1) %>%
+  filter(!is.na(row)) -> 
+  well_layout.df
+well_layout.df
+```
+
+```{r}
+well_layout.df %>%
+  gather(key="col", "Label", -row) %>%
+  mutate(Well=paste0(row,col)) %>%
+  select(Label, Well) ->
+  samples_with_wells.df
+```
+
+## Get Barcodes from Plate Layout
+```{r}
+read_csv(sample_layout.csv, skip=1) %>%
+  select(-X1) %>%
+  rename(I5_Index_ID = X2) ->
+  plate_layout.df
+```
+
+```{r}
+gather(plate_layout.df, key="I7_Index_ID", "Label", -I5_Index_ID) ->
+  sample_indices.df
+sample_indices.df
+```
+
+## Get Barcode sequences
+```{r}
+read_csv(neb_nextseq_barcode.csv, skip=18) %>%
+  select(I7_Index_ID, 
+         I7_Index_Seq=index,
+         I5_Index_ID, 
+         I5_Index_Seq=index2) %>%
+  mutate(I7_Index_ID=str_replace(I7_Index_ID, "D", "i"),
+         I5_Index_ID=str_replace(I5_Index_ID, "D", "i")) ->
+  index_seqs.df
+
+index_seqs.df %>%
+  select(starts_with("I7")) ->
+  i7_sequences
+
+index_seqs.df %>%
+  select(starts_with("I5")) %>%
+  distinct ->
+  i5_sequences
+```
+
+## Merge Sequences with Samples
+```{r}
+sample_indices.df %>%
+  left_join(i7_sequences) %>%
+  left_join(i5_sequences) %>%
+  left_join(samples_with_wells.df) %>%
+  arrange(I7_Index_ID, I5_Index_ID) ->
+  samples_with_index_seqs
+samples_with_index_seqs
+```
+
+
+```{r}
+samples_with_index_seqs %>%
+  transmute(
+    Code=paste("L", 1:n(),sep="-"),
+    Version=1, 
+    Type="RNA-Seq",
+    Label,
+    Plate=1,
+    Well,
+    Organism="Cryptococcus neoformans",
+    Conc="",
+    Volume=20,
+    Size=200,
+    "i7 index"=I7_Index_Seq,
+    "i5 index"=I5_Index_Seq,
+    Pool="A") ->
+  sample_submission.df
+sample_submission.df
+```
+```{r}
+write.xlsx(sample_submission.df, "order_5728_corrected.xlsx")
+```
+
+## Make Sample Metadata Table
+```{r}
+# read_csv(sample_metadata.csv) ->
+#   sample_metadata.df
+# 
+# class(sample_metadata.df)
+# 
+
+read_csv(sample_metadata.csv,
+         col_types=cols(Sample = col_character())) ->
+  sample_metadata.df
+
+# , 
+#          col_types=cols(Sample = "i", b = "d", c = "_")
+# 
+           
+           
+           
+#           "cccddiidd")
+```
+
+
+```{r}
+sample_submission.df %>%
+  separate(Label, into=c("Sample", "Group"), sep="_", remove=FALSE) %>%
+  left_join(sample_metadata.df, by="Sample") ->
+  joined_metadata.df
+joined_metadata.df
+```
+
+```{r}
+colnames(joined_metadata.df) %>%
+  paste0(collapse=",")
+```
+
+```{r}
+joined_metadata.df %>%
+  select(Label,Sample,Group,Genotype,Condition,i7_index_seq="i7 index",i5_index_seq="i5 index") ->
+  final_metadata.df
+  
+final_metadata.df
+```
+
+```{r}
+write_csv(final_metadata.df, "lab_library_metadata.csv")
+```
+

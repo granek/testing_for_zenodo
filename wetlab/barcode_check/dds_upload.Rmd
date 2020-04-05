@@ -1,0 +1,70 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{bash}
+ls ~/.local/bin/ddsclient
+```
+
+```{bash}
+~/.local/bin/ddsclient list -p HTS_course | grep 2019 | grep 
+```
+
+
+```{bash}
+~/.local/bin/ddsclient list -p HTS_course | grep 2019 | grep -v ".fastq.gz"
+```
+
+```{bash}
+~/.local/bin/ddsclient list -p HTS_course | grep 2019 | grep -v ".fastq.gz" | grep -v "ReadsPerGene.out.tab"
+```
+
+```{bash}
+~/.local/bin/ddsclient download -h
+```
+
+```{bash}
+~/.local/bin/ddsclient list -p HTS_course | grep 2019 | grep -v ".fastq.gz" | grep -v "ReadsPerGene.out.tab"
+```
+
+
+```{bash}
+ls ~/Downloads
+```
+
+
+```{bash}
+~/.local/bin/ddsclient download -p HTS_course \
+  --include hts_2019_data/hts2019_pilot_rawdata/2019_pilot_metadata.md \
+  --include hts_2019_data/hts2019_pilot_rawdata/2019_pilot_metadata.tsv \
+  --include hts_2019_data/hts2019_lab_rawdata/5728_demultiplexing.html \
+  --include hts_2019_data/hts2019_lab_rawdata/md5_checksum.txt \
+   ~/Downloads
+```
+
+```{bash}
+ls wetlab/barcode_check
+```
+
+```{bash}
+cp wetlab/barcode_check/lab_library_metadata.csv ~/Downloads/hts_2019_data/hts2019_lab_rawdata/
+cp ~/Downloads/hts_2019_data/hts2019_pilot_rawdata/2019_pilot_metadata.md ~/Downloads/hts_2019_data/hts2019_lab_rawdata/lab_library_metadata.md
+```
+
+
+```{bash}
+~/.local/bin/ddsclient list -p HTS_course | grep 2019 | grep -v ".fastq.gz" | grep -v "ReadsPerGene.out.tab"
+```
+
+```{bash}
+~/.local/bin/ddsclient upload -h
+```
+
+```{bash}
+~/.local/bin/ddsclient upload \
+  -p HTS_course \
+   ~/Downloads/hts_2019_data
+```
+
+

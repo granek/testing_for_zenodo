@@ -103,6 +103,7 @@ RUN apt-get update \
     liblzma-dev \
     libunwind-dev \
     libcairo2-dev \
+    llvm \
     texinfo
  
 # R pre-requisites
